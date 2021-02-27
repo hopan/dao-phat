@@ -1,5 +1,10 @@
 # Khái niệm số
 
+Tham khảo:
+
+- <https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Tri%E1%BA%BFt_l%C3%BD_Ph%E1%BA%ADt_gi%C3%A1o>
+- <https://vi.wikipedia.org/w/index.php?title=Th%E1%BB%83_lo%E1%BA%A1i:Tri%E1%BA%BFt_l%C3%BD_Ph%E1%BA%ADt_gi%C3%A1o&pagefrom=Thong+dong+l%E1%BB%A5c#mw-pages>
+
 ## Nhất - 1
 
 - [Nhất nguyên](nhat_nguyen.md)

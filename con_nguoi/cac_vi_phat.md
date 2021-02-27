@@ -4,8 +4,6 @@ Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/Danh_v%E1%BB%8B_Ph%E1%BA%ADt>
 
-## 7 vị Phật quá khứ
-
 ## 28 vị Phật toàn giác trong quá khứ
 
 Đức Thích Ca Mâu Ni giảng giải cho Đại đức Xá Lợi Phất rằng: tính từ cách đây 4 A-tăng-kỳ và 100 ngàn đại kiếp Trái Đất đến nay, đã có 28 Đức Phật tổ đã ra đời giáo hóa chúng sinh.
