@@ -1,5 +1,13 @@
 # Khái niệm số
 
+## Nhất - 1
+
+- [Nhất nguyên](nhat_nguyen.md)
+
+## Nhị - 2
+
+- [Nhị đế](nhi_de.md)
+
 ## Tam - 3
 
 - [Tam bảo](tam_bao.md)
@@ -14,7 +22,7 @@
 
 ## Tứ - 4
 
-- [Tứ diệu đế](khai_niem_so/tu_dieu_de.md)
+- [Tứ diệu đế](tu_dieu_de.md)
 - Tứ thiền
 - Tứ thánh quả
 - Tứ niệm xứ
@@ -47,6 +55,7 @@
 ## Nhiều hơn
 
 - Thập đại đệ tử
+- Thập hiệu
 - Mười kiết sử
 - 10 giai đoạn và 4 cấp bậc thiền định
 - 12 nhân duyên - Thập nhị nhân duyên

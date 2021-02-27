@@ -48,4 +48,5 @@ Như vậy, với trí tuệ sáng suốt của bậc Toàn Giác, Đức Phật
 
 ## Sách tham khảo
 
-- [Tứ diệu đế - Ajahn Sumedho - Dương Vĩnh Hùng dịch](../sach/Tu_Dieu_De-Ajahn_Sumedho-Duong_Vinh_Hung_dich.pdf)
+- [Tứ Diệu Đế - Ajahn Sumedho - Dương Vĩnh Hùng dịch](../sach/Tu_Dieu_De-Ajahn_Sumedho-Duong_Vinh_Hung_dich.pdf)
+- [Tứ Diệu Đế - Đức Đạt Lai Lạt Ma - Võ Quang Nhân dịch](../sach/Tu_Dieu_De-Duc_Dat_Lai_Lat_Ma-Vo_Quang_Nhan_dich.pdf)
