@@ -22,7 +22,6 @@ Tứ diệu đế bao gồm:
 
 Sau 49 ngày đêm thiền định dưới cội cây Bồ Đề, Đức Phật thành tựu đạo quả, trở thành vị Phật Chính Đẳng Chính Giác tối thượng khắp thế gian. Khi đó, tâm Ngài lắng trong thanh tịnh, Ngài thấu tỏ hết mọi lẽ của vũ trụ và diệt trừ hoàn toàn đau khổ. Ngài đã thấu rõ bốn sự thật của thế gian - chính là Tứ diệu đế. Với lòng từ bi yêu thương chúng sinh vô tận, Đức Phật muốn đem sự thật ấy giảng dạy, hướng dẫn cho khắp muôn loài để đưa chúng sinh thoát khỏi con đường khổ đau. Tại khu vườn Lộc Uyển (vườn Nai) thuộc thành Ba La Nại, lần đầu tiên Đức Phật chuyển bánh xe Pháp, giáo hóa cho 5 anh em ông Kiều Trần Như. Từ đây, Tứ diệu đế đã được Đức Phật thuyết giảng, mở ra con đường thoát khổ cho chúng sinh. Sư Phụ chia sẻ: “Khi Đức Phật đi truyền bá chính Pháp; đầu tiên, Ngài đến tiếp độ cho 5 người bạn đồng tu ngày xưa của mình, đó là năm anh em ông Kiều Trần Như. Ngài độ cho năm anh em ông Kiều Trần Như và cả 5 anh em đều chứng quả giác ngộ giải thoát”. Đây là bài Pháp đầu tiên mà Đức Phật thuyết giảng, độ được cho 5 người giác ngộ, xuất gia theo Ngài. Từ đó, Tăng đoàn đầu tiên đã được thành lập, mở ra con đường hoằng dương chính Pháp rộng lớn sau này.
 
-
 ## Nội dung Tứ diệu đế
 
 ### Khổ đế
@@ -46,3 +45,7 @@ Sư Phụ giảng giải về Diệt đế: “Ngài phát hiện được sự 
 Đạo là con đường, là phương pháp; cũng như đạo Phật là con đường để đi đến thành Phật; Đạo đế chính là con đường, phương pháp diệt khổ mà Đức Phật đã tuyên thuyết. Sư Phụ chỉ dạy: “Có một sự thật thứ tư Đức Phật đã tìm ra, đó là con đường diệt khổ cho tất cả chúng sinh, gọi là Đạo đế. Con đường này là con đường gì? Gọi là con đường thực hành tám điều, gọi là Bát chính đạo. Khi Ngài chứng đạo là Ngài thấy rõ ràng hết tất cả mọi chuyện. Và đặc biệt nhất đối với con người chúng ta, Ngài tìm ra bốn sự thật là Khổ đế, Tập đế, Diệt đế và Đạo đế. Đây là sự thật của nhân loại, của chúng sinh chúng ta. Chúng sinh đều chịu khổ và có nguyên nhân, tại sao chúng sinh bị khổ là có nguyên nhân. Và Đức Phật khẳng định là có chỗ hết khổ, thực hành theo phương pháp của Đức Phật hướng dẫn sẽ đi đến chỗ hết khổ thật sự. Gọi là Khổ, Tập, Diệt, Đạo. Bốn sự thật này gọi là Bốn thánh đế, hay còn gọi là Tứ diệu đế”.
 
 Như vậy, với trí tuệ sáng suốt của bậc Toàn Giác, Đức Phật đã chỉ ra bốn sự thật trong kiếp nhân sinh: sự thật về khổ, nguyên nhân của khổ, cách diệt khổ và con đường chấm dứt khổ đau. Đó chính là Tứ diệu đế - giáo lý hoàn chỉnh mang lại hạnh phúc vô tận cho chúng sinh. Đức Phật đã giương cao ngọn đuốc dẫn dắt chúng sinh ra khỏi nơi tăm tối vô minh bằng con đường Bát chính đạo. Mong rằng, mỗi người đệ tử Phật sẽ hiểu rõ và thực hành Tứ diệu đế để tìm cho bản thân mình sự chân hạnh phúc mà thế gian này không mang lại được.
+
+## Sách tham khảo
+
+- [Tứ diệu đế - Ajahn Sumedho - Dương Vĩnh Hùng dịch](sach/Tu_Dieu_De-Ajahn_Sumedho-Duong_Vinh_Hung_dich.pdf)
