@@ -185,3 +185,7 @@ Xem chi tiết: [Thánh tích](../lich_su_dia_ly/thanh_tich.md)
 - **Kushinagar**: Đây là nơi mà Phật nhập niết bàn. Qua các khai quật thì người ta đã tìm thấy được các mảnh vỡ của các tượng phật và các cột trụ mà vua Asoka đã xây dựng. Nơi này ngày nay là Kasia, thuộc về Deoria của bang Utta Pradesh.
 - **Lâm-tỳ-ni (Lumbini)**: Nơi Phật đản sinh. Trước đây người ta không xác định được địa danh này, nhiều người coi đây chỉ là huyền thoại. Mãi đến 1 tháng 12 năm 1886, nhà khảo cổ người Đức Alois A. Fuhrer mới tìm thấy cột tháp của vua Asoka xác nhận đây là nơi ra đời của Phật Thích Ca Mâu Ni.
 - **Sarnath** - Nơi Phật thuyết pháp lần đầu tiên. Di tích còn sót lại là tháp Dhamekh được xây vào triều đại Gupta thế kỷ thứ 6 trước Công nguyên. (Chữ Phạn "dharmekh" nghĩa là chánh pháp.)
+
+## Sách tham khảo
+
+- [Đường Xưa Mây Trắng - Thích Nhất Hạnh](../sach/Duong_Xua_May_Trang-Thich_Nhat_Hanh.pdf)
