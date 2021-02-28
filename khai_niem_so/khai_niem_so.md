@@ -47,6 +47,7 @@ Tham khảo:
 - Lục thông
 - 6 cõi giới luân hồi
 - Lục xúc
+- Lục hòa
 
 ## Thất - 7
 

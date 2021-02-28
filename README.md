@@ -21,6 +21,7 @@ Xử lý các vấn đề chính:
 1. Hoàn thiện nội dung
     1. Bổ sung các trang chưa có thông tin
     1. Thêm thông tin tham khảo các nguồn khác nhau
+1. Tự động bổ sung mục lục, bổ sung chỉ mục, chỉ mục sách, README.md
 1. Bổ sung hình ảnh minh họa, bổ sung sách tham khảo
 1. Khái quát hóa một số sơ đồ tổ chức
 1. Tổ chức sắp xếp lại thư mục
@@ -30,6 +31,6 @@ Xử lý các vấn đề chính:
 
 ## Những người đóng góp cho dự án
 
-Rất mong mọi người cùng tham gia để cập nhật tri thức về Đạo Phật
+Rất mong mọi người cùng tham gia đóng góp để cập nhật tri thức về Đạo Phật
 
 - hopan
