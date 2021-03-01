@@ -108,7 +108,7 @@ Trong một đại kiếp, ba trung kiếp: Thành, Hoại, Không đều không
 
 Ở kiếp Tinh Tú, trong Phật Tổ Thống Ký nói: “Đại kiếp của thời vị lai gọi là Tinh Tú.trong kiếp này có 1000 đấng Điều Ngự ra đời, vị đầu tiên là Nhật Quang, vị sau rốt là Tu Di Tướng. Một ngàn vị Phật xuất hiện sáng rõ như các ngôi sao lớn trên trời,nên gọi kiếp sẽ đến là kiếp Tinh Tú”.
 
-## Hiền kiếp - Đại kiếp hiện tại
+## Kiếp Thiện Hiền - Đại kiếp hiện tại
 
 Kiếp hiện tại của chúng ta đang sống là Hiền Kiếp. Trong Hiền Kiếp có 1000 đức Phật ra đời, vị đầu tiên là Câu Lưu tôn, vị sau cùng là Lâu Chí. Trong 20 tiểu kiếp của kiếp trụ, 8 tiểu kiếp trước không có Phật ra đời, đến tiểu kiếp thứ 9 lúc nhơn thọ giảm còn sáu muôn tuổi, khởi thỉ có đức Phật Câu Lưu Tôn xuất hiện. Khi nhơn thọ giảm xuống còn bốn muôn tuổi, có Phật Câu Na Hàm Mâu Ni xuất hiện, nhơn thọ giảm xuống còn hai muôn tuổi có Phật Ca Diếp xuất hiện, nhơn thọ giảm xuống còn 100 tuổi có Phật Thích Ca Mâu Ni xuất hiện. Như thế trong tiểu kiếp thứ 9 có bốn đức Phật ra đời, sang tiểu kiếp thứ 10, lúc nhơn thọ từ 84.000 giảm còn 80.000 tuổi có Phật Di Lặc ứng thế độ sinh. Từ tiểu kiếp thứ 11 đến tiểu kiếp thứ 14, trong thời gian này không có Phật ra đời, qua tiểu kiếp thứ 15, có 994 nối tiếp nhau xuất thế. Trong bốn tiểu kiếp thứ 16, 17, 18, 19 không có Phật ra đời. Đến tiểu kiếp thứ 20 lúc nhơn thọ 84.000 tuổi đức Lâu Chí Như Lai xuất hiện, thuyết pháp độ sinh. Sau khi Phật Lâu Chí niết bàn, mãn tiểu kiếp cuối cùng thế giới này bắt đầu vào giai đoạn hư hoại để chuyển sang sự thành lập của kiếp Tinh Tú tương lai.
 
