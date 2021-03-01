@@ -11,6 +11,7 @@ Tham khảo:
 - A-hàm
 - A-la-hán
 - A-lại-da thức
+- A-tăng-kỳ
 - A-tì-đạt-ma
 - A-tì-đạt-ma-câu-xá luận
 - A-xà-lê
