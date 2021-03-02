@@ -52,6 +52,7 @@ Tham khảo:
 ## Thất - 7
 
 - Thất giác chi
+- 7 bồ đề phần
 
 ## Bát - 8
 
