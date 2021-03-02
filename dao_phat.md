@@ -33,6 +33,7 @@ Phật giáo được [Siddhārtha Gautama](con_nguoi/duc_phat.md), người sá
 ## Những câu hỏi khơi nguồn sự thật
 
 Phần nội dung này được trích từ bài [Tóm Tắt Căn Bản Phật Giáo](https://www.budsas.org/uni/1-bai/phap047.htm)
+Đọc thêm: [Vì sao tôi theo Đạo Phật](phap/vi_sao_toi_theo_dao_phat.md)
 
 ### Hỏi: Tại sao Phật Giáo trở nên phổ biến?
 
