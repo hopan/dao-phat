@@ -4,24 +4,28 @@ Dự án tổng hợp các tài liệu Phật học để mọi người dễ d�
 
 Các tài liệu trong dự án được cóp nhặt từ nhiều nguồn khác nhau, có trích dẫn nguồn ở mỗi trang thông tin.
 
-[Bắt đầu tìm hiểu Đạo Phật](dao_phat.md)
+Bắt đầu tìm hiểu:
+
+- [Đạo Phật](dao_phat.md)
+- [Các chỉ mục](chi_muc.md)
 
 ## Vision của dự án
 
-Tạo ra tập tài liệu giúp mọi người dễ dàng tiếp cận, hiểu và thực hành Phật Pháp.
+Tạo ra tập tài liệu giúp mọi người dễ dàng tiếp cận, hiểu và thực hành Đạo Phật.
 
 Xử lý các vấn đề chính:
 
 - Bộ tài liệu về Đạo Phật hoàn chỉnh về nội dung
 - Sắp xếp nội dung khoa học, dễ tra cứu
-- Dễ dàng tiếp cận với tất cả mọi người
+- Nội dung dễ dàng tiếp cận với tất cả mọi người
+- Dự án mã nguồn mở, mọi người đều có thể đóng góp nội dung
 
 ## Các công việc cần hoàn thiện
 
 1. Hoàn thiện nội dung
     1. Bổ sung các trang chưa có thông tin
     1. Thêm thông tin tham khảo các nguồn khác nhau
-1. Tự động bổ sung mục lục, bổ sung chỉ mục, chỉ mục sách, README.md
+1. Tự động bổ sung mục lục, bổ sung chỉ mục, chỉ mục sách, `README.md`
 1. Bổ sung hình ảnh minh họa, bổ sung sách tham khảo
 1. Khái quát hóa một số sơ đồ tổ chức
 1. Tổ chức sắp xếp lại thư mục
