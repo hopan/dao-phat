@@ -8,6 +8,7 @@ Bắt đầu tìm hiểu:
 
 - [Đạo Phật](dao_phat.md)
 - [Các chỉ mục](chi_muc.md)
+- Web: [hopan.vn](https://hopan.vn)
 
 ## Vision của dự án
 
@@ -29,7 +30,6 @@ Xử lý các vấn đề chính:
 1. Bổ sung hình ảnh minh họa, bổ sung sách tham khảo
 1. Khái quát hóa một số sơ đồ tổ chức
 1. Tổ chức sắp xếp lại thư mục
-1. Xuất bản lên định dạng web
 1. Xuất bản thành file PDF hoặc các định dạng khác đầy đủ
 1. Xuất bản lên mobile
 
