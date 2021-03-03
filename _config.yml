@@ -3,4 +3,4 @@ output:
     includes: 
       in_header: gtag.html
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
