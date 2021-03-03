@@ -291,7 +291,9 @@ Tham khảo:
 - Tử thư (Tây Tạng)
 - Tự tính
 - Tứ vô lượng
-- V
+
+# V
+
 - Vấn đáp (Phật giáo)
 - Vân Môn Khuông Chân Thiền sư quảng lục
 - Vân thủy
