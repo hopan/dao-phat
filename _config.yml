@@ -4,3 +4,4 @@ output:
       in_header: gtag.html
 
 google_analytics: G-00Y1TBG080
+theme: jekyll-theme-cayman
