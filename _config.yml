@@ -5,3 +5,6 @@ output:
 
 google_analytics: G-00Y1TBG080
 theme: jekyll-theme-cayman
+url: "https://hopan.vn"
+plugins:
+  - jekyll-sitemap
