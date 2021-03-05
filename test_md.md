@@ -1,7 +1,8 @@
 # Hihi
 
-**Contents**
-* TOC
+**Mục lục**
+
+- TOC
 {:toc}
 
 My first paragraph.
