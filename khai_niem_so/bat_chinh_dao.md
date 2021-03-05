@@ -15,14 +15,14 @@ Từ Bát chánh đạo xuất hiện phổ biến hơn Bát chính đạo. "Ch�
 
 |#  |Bát chính đạo  |Ý nghĩa  |Chi tiết  |
 |---|---------------|----------|----------|
-|1  |Chánh kiến     |Hiểu biết, trí tuệ chân chính|[Chánh kiến](#Chánh-kiến)         |
-|2  |Chánh tư duy   |Tư duy, suy nghĩ chân chính|[Chánh tư duy](#Chánh-tư-duy)        |
-|3  |Chánh ngữ      |Lời nói chân chính|[Chánh ngữ](#Chánh-ngữ)         |
-|4  |Chánh nghiệp   |Hành vi, hành động chân chính|[Chánh nghiệp](#Chánh-nghiệp)         |
-|5  |Chánh mạng     |Đời sống chân chánh|[Chánh mạng](#Chánh-mạng)         |
-|6  |Chánh tinh tấn |Tinh tấn chân chính|[Chánh tinh tấn](#Chánh-tinh-tấn)         |
-|6  |Chánh niệm     |Niệm chân chính|[Chánh niệm](#Chánh-niệm)         |
-|7  |Chánh định     |Định chân-chính là định-tâm trong các bậc thiền siêu-tam-giới có Niết-bàn là đối-tượng|[Chánh định](#Chánh-định)         |
+|1  |Chánh kiến     |Hiểu biết, trí tuệ chân chính|[Chánh kiến](#chánh-kiến)         |
+|2  |Chánh tư duy   |Tư duy, suy nghĩ chân chính|[Chánh tư duy](#chánh-tư-duy)        |
+|3  |Chánh ngữ      |Lời nói chân chính|[Chánh ngữ](#chánh-ngữ)         |
+|4  |Chánh nghiệp   |Hành vi, hành động chân chính|[Chánh nghiệp](#chánh-nghiệp)         |
+|5  |Chánh mạng     |Đời sống chân chánh|[Chánh mạng](#chánh-mạng)         |
+|6  |Chánh tinh tấn |Tinh tấn chân chính|[Chánh tinh tấn](#chánh-tinh-tấn)         |
+|6  |Chánh niệm     |Niệm chân chính|[Chánh niệm](#chánh-niệm)         |
+|7  |Chánh định     |Định chân-chính là định-tâm trong các bậc thiền siêu-tam-giới có Niết-bàn là đối-tượng|[Chánh định](#chánh-định)         |
 
 ## Nội dung Bát chính đạo
 

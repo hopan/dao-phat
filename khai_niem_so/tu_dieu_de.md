@@ -13,10 +13,10 @@ Tứ diệu đế bao gồm:
 
 |#   |Tứ diệu đế |Ý nghĩa  |Chi tiết  |
 |----|-----------|---------|----------|
-|1   |Khổ đế     |Biết mình đang khổ  | [Khổ đế](#Khổ-đế)        |
-|2   |Tập khổ đế |Xác định được nguyên nhân gây đau khổ  |[Tập khổ đế](#Tập-khổ-đế)        |
-|3   |Diệt đế    |Có thể diệ trừ nguyên nhân gây ra khổ đau |[Diệt đế](#Diệt-đế)         |
-|4   |Đạo đế     |Phương pháp diệt khổ, bát chánh đạo |[Đạo đế](#Đạo-đế)         |
+|1   |Khổ đế     |Biết mình đang khổ  | [Khổ đế](#khổ-đế)        |
+|2   |Tập khổ đế |Xác định được nguyên nhân gây đau khổ  |[Tập khổ đế](#tập-khổ-đế)        |
+|3   |Diệt đế    |Có thể diệ trừ nguyên nhân gây ra khổ đau |[Diệt đế](#diệt-đế)         |
+|4   |Đạo đế     |Phương pháp diệt khổ, bát chánh đạo |[Đạo đế](#đạo-đế)         |
 
 ## Nguồn gốc của Tứ diệu đế
 
