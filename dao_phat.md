@@ -49,7 +49,7 @@ Phật Giáo là một tôn giáo có khoảng 300 triệu tín đồ trên kh�
 
 ### Hỏi: Đức Phật là ai?
 
-Đáp: Ngài Siddhattha Gotama sinh ra vào năm 563 trước Tây Lịch, trong một hoàng tộc tại Lumbini, nay thuộc xứ Nepal. Vào năm 29 tuổi, Ngài nhận thức rằng tiện nghi vật chất và an ninh trong thế gian không bảo đảm hạnh phúc; vì thế, Ngài đi tìm học các lời dạy, tôn giáo và triết học thời đó, để tìm kiếm chìa khóa đưa đến hạnh phúc. Sau sáu năm học tập và hành thiền, Ngài tìm ra con đường "Trung Đạo" và giác ngộ. Sau khi chứng đắc, Ngài dùng quảng đời còn lại tại thế gian để truyền giảng các nguyên lý trong đạo Phật -- gọi là Pháp, hay Chân lý, cho đến khi Ngài nhập diệt vào năm 80 tuổi.
+Đáp: Ngài Siddhattha Gotama sinh ra vào năm 563 trước Tây Lịch, trong một hoàng tộc tại Lumbini, nay thuộc xứ Nepal. Vào năm 29 tuổi, Ngài nhận thức rằng tiện nghi vật chất và an ninh trong thế gian không bảo đảm hạnh phúc; vì thế, Ngài đi tìm học các lời dạy, tôn giáo và triết học thời đó, để tìm kiếm chìa khóa đưa đến hạnh phúc. Sau sáu năm học tập và hành thiền, Ngài tìm ra con đường "Trung Đạo" và giác ngộ. Sau khi chứng đắc, Ngài dùng quãng đời còn lại tại thế gian để truyền giảng các nguyên lý trong đạo Phật -- gọi là Pháp, hay Chân lý, cho đến khi Ngài nhập diệt vào năm 80 tuổi.
 
 ### Hỏi: Tại sao nhiều quốc gia Phật Giáo lại nghèo như vậy?
 
