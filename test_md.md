@@ -1,6 +1,6 @@
 # Hihi
 
-**Mục lục**
+\* **Mục lục**
 
 - TOC
 {:toc}

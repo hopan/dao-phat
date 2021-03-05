@@ -2,5 +2,3 @@ output:
   html_document:
     includes: 
       in_header: gtag.html
-
-theme: jekyll-theme-cayman

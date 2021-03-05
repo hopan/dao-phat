@@ -1,5 +1,10 @@
 # Đạo Phật
 
+\* **Mục lục**
+
+- TOC
+{:toc}
+
 Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o>
