@@ -3,7 +3,7 @@ title: Test page
 description: This is just test page
 ---
 
-# Hihi
+# Hihi 2
 
 \* **Mục lục**
 
