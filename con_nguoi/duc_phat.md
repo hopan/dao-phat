@@ -120,7 +120,7 @@ Theo sử Phật giáo, đó là ngày mùng 8 tháng chạp âm lịch năm 589
 
 Từ thời điểm đó, Siddhārtha biết mình là Phật, là một bậc Giác ngộ, và biết rằng mình sẽ không còn tái sinh một lần nào nữa. Kinh nghiệm giác ngộ được ghi lại như sau trong kinh sách theo chính lời của Siddhārtha như sau:
 
->"... Sau khi hoàn lại sinh lực (sau khi tu khổ hạnh vô ích), ta chú tâm giải thoát khỏi những tư tưởng tham ái, bất thiện và đạt được sơ thiền, sau đó nhị thiền, tam thiền và tứ thiền, nhưng những cảm giác hỉ lạc này không để lại dấu vết gì trong tâm ta.
+> Sau khi hoàn lại sinh lực (sau khi tu khổ hạnh vô ích), ta chú tâm giải thoát khỏi những tư tưởng tham ái, bất thiện và đạt được sơ thiền, sau đó nhị thiền, tam thiền và tứ thiền, nhưng những cảm giác hỉ lạc này không để lại dấu vết gì trong tâm ta.
 ---
 > Khi tâm ta được an tịnh, thanh lọc, không bị dục vọng cấu uế, nhạy bén, chắc chắn, bất động, ta hướng nó về những ký ức và nhận thức về các kiếp trước. Ta nhớ lại nhiều tiền kiếp, một, hai, ba, bốn, năm,..., trăm ngàn kiếp trước, nhớ những chu kì của thế giới. 'Nơi đó ta đã sống, tên của ta đã như thế, gia đình của ta là như thế, nghề nghiệp của ta, giai cấp xã hội của ta... Ta đã chết như vầy...'. Sự hiểu biết (sa. vidyā, pi. vijjā) đầu tiên này ta đã đạt được trong canh đầu...
 ---
