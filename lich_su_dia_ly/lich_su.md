@@ -78,7 +78,7 @@ Asoka (A Dục) là hoàng đế của đế chế Mauryan, ra đời khoảng n
 
 Đây là giai đoạn đánh dấu sự phát triển của Phật giáo ra ngoài lãnh thổ Ấn Độ. Nhiều đoàn truyền giáo đạo Phật đã được cử đến khắp nơi từ Âu sang Á, đến tận Hy Lạp, các nước tại Trung Á, Trung Đông, cũng như Trung Quốc, Miến Điện và Sri Lanka. Hiện còn một vấn đề đang được tranh luận là liệu đoàn thuyết pháp của vua Asoka đã đến được Việt Nam hay không. Câu hỏi này còn trông chờ vào việc tìm ra thêm các bằng chứng về khảo cổ ở Việt Nam. Ngoài ra, vua Asoka còn là người bảo trợ cho kì kết tập kinh điển lần thứ III.
 
-### Kết tập kinh điển lần thứ III và bản dịch tiếng Pali của toàn bộ Tam Tạng kinh
+#### Kết tập kinh điển lần thứ III và bản dịch tiếng Pali của toàn bộ Tam Tạng kinh
 
 **Lý do**
 
