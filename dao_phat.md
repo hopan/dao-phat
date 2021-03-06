@@ -35,6 +35,14 @@ Phật giáo được [Siddhārtha Gautama](con_nguoi/duc_phat.md), người sá
 - [Bát chính đạo](khai_niem_so/bat_chinh_dao.md)
 - [Nghiệp báo](khai_niem/nghiep_bao.md) và [luân hồi](khai_niem/luan_hoi.md)
 
+## Các nội dung chính
+
+<!-- - [Căn bản Phật pháp](khai_niem/can_ban.md) -->
+- [Lịch sử Phật giáo](lich_su_dia_ly/lich_su.md)
+<!-- - [Phương pháp tu học: Giới Định Tuệ](khai_niem/gioi_dinh_tue.md) -->
+- [Kinh tạng](kinh_dien/kinh_tang.md)
+- [Luật tạng](kinh_dien/luat_tang.md)
+
 ## Những câu hỏi khơi nguồn sự thật
 
 Phần nội dung này được trích từ bài [Tóm Tắt Căn Bản Phật Giáo](https://www.budsas.org/uni/1-bai/phap047.htm)
