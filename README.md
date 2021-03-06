@@ -4,9 +4,10 @@ Dự án tổng hợp các tài liệu Phật học để mọi người dễ d�
 
 Các tài liệu trong dự án được cóp nhặt từ nhiều nguồn khác nhau, có trích dẫn nguồn ở mỗi trang thông tin.
 
-Bắt đầu tìm hiểu:
+Các nội dung:
 
 - [Đạo Phật](dao_phat.md)
+- [Các nội dung chính](noi_dung_chinh.md)
 - [Các chỉ mục](chi_muc.md)
 - Web: [hopan.vn](https://hopan.vn)
 
