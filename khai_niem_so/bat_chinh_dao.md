@@ -1,5 +1,10 @@
 # Bát chính đạo
 
+\* **Mục lục**
+
+- TOC
+{:toc}
+
 Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/B%C3%A1t_ch%C3%ADnh_%C4%91%E1%BA%A1o>

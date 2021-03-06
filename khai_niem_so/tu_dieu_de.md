@@ -1,5 +1,10 @@
 # Tứ diệu đế
 
+\* **Mục lục**
+
+- TOC
+{:toc}
+
 Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/T%E1%BB%A9_di%E1%BB%87u_%C4%91%E1%BA%BF>
