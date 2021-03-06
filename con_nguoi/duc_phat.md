@@ -1,5 +1,10 @@
 # Đức Phật - Tất-đạt-đa Cồ-đàm
 
+\* **Mục lục**
+
+- TOC
+{:toc}
+
 Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/T%E1%BA%A5t-%C4%91%E1%BA%A1t-%C4%91a_C%E1%BB%93-%C4%91%C3%A0m>
