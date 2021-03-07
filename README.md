@@ -33,6 +33,7 @@ Xử lý các vấn đề chính:
 1. Tổ chức sắp xếp lại thư mục
 1. Xuất bản thành file PDF hoặc các định dạng khác đầy đủ
 1. Xuất bản lên mobile
+1. Bổ sung tính năng tìm kiếm trên web
 
 ## Những người đóng góp cho dự án
 
