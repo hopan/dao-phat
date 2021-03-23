@@ -20,10 +20,11 @@ Tham khảo:
 
 ## Tam - 3
 
+- Ba bộ phái
+- [Ba học (Giới - định - tuệ)](ba_hoc.md)
 - [Tam bảo](tam_bao.md)
 - [Tam minh](tam_minh.md)
 - Tam thừa
-- 3 bộ phái
 - Tam độc
 - Tứ chính cần
 - Tứ thần túc
