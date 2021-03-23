@@ -1,5 +1,10 @@
 # Khái niệm số
 
+\* **Mục lục**
+
+- TOC
+{:toc}
+
 Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Tri%E1%BA%BFt_l%C3%BD_Ph%E1%BA%ADt_gi%C3%A1o>
@@ -28,7 +33,7 @@ Tham khảo:
 ## Tứ - 4
 
 - [Tứ diệu đế](tu_dieu_de.md)
-- Tứ thiền
+- [Tứ thiền](tu_thien.md)
 - Tứ thánh quả
 - Tứ niệm xứ
 
