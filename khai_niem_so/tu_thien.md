@@ -109,6 +109,7 @@ Trong phần cảm thọ có hai:
 
 Lạc và khổ thuộc cảm thọ về thân, còn hỷ và niệm thanh tịnh thuộc cảm thọ về tâm. Như vậy ly hỷ, xả lạc, xả khổ và xả niệm thanh tịnh là xả cảm thọ về thân và tâm; xả cảm thọ về thân và tâm là tịnh chỉ các hành trong thân và tâm. Cho nên người nhập Tứ Thiền toàn thân tâm bất động, thân tâm không còn rung động một chút xíu nào thì hơi thở phải tịnh chỉ.
 
-Trên đây là một số kiến giải đơn giản về Tứ thiền theo Phật Pháp, những kiến giải này dù chưa thể đầy đủ, nhưng cũng giúp bạn hiểu phần nào về khái niệm "Tứ thiền".
+## Xem thêm
 
-Theo quan điểm của Trung tâm Dưỡng sinh Thiền Việt, với xu thế phát triển hiện đại ngày nay, những áp lực, căng thẳng trong cuộc sống  ảnh hưởng không nhỏ đến sức khỏe của con người, vậy nên trước tiên bạn hãy đến với Thiền để loại bỏ sự căng thẳng, stress, tìm lại sự thư giãn, an yên trong cuộc sống hiện tại. Hãy đến với Thiền với bằng những điều giản dị như vậy,  chứ không nên đến với thiền bằng việc cố gắng phải được được các cấp độ của thiền định, bởi vì, trong cuộc sống thứ quý giá nhất đó là sức khỏe, hãy thiền để nâng cao sức khỏe cho bản thân.
+- [5 triền cái](nam_trien_cai.md)
+- Chánh niệm tỉnh giác
