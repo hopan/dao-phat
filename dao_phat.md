@@ -34,6 +34,8 @@ Phật giáo được [Siddhārtha Gautama](con_nguoi/duc_phat.md), người sá
 - [Tứ diệu đế](khai_niem_so/tu_dieu_de.md)
 - [Bát chính đạo](khai_niem_so/bat_chinh_dao.md)
 - [Nghiệp báo](khai_niem/nghiep_bao.md) và [luân hồi](khai_niem/luan_hoi.md)
+- Trung đạo
+- Thiền
 
 ## Các nội dung chính
 
