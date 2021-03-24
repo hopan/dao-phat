@@ -4,3 +4,7 @@ redirect_to:
 ---
 
 # Ba học: Giới - định - tuệ
+
+<script>
+    console.log("hello");
+</script>

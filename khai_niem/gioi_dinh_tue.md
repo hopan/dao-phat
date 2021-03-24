@@ -13,6 +13,12 @@ Giới, định, tuệ là pháp môn vi diệu bậc nhất trên lộ trình t
 
 Trau dồi giới, định, tuệ để dứt trừ vô minh, cây Bồ-đề sẽ sớm nở hoa, kết quả. Vì có giới, định, tuệ sẽ có được giải thoát và Niết-bàn. Do vậy, kinh điển Thế Tôn để lại rất nhiều nhưng tựu trung lại vẫn không ra ngoài giới, định, tuệ, vì ba thứ này là nền móng cho tòa nhà giác ngộ.
 
+Xem thêm:
+
+- [Giới học](gioi_hoc.md)
+- [Định học](dinh_hoc.md)
+- [Tuệ học](tue_hoc.md)
+
 ## Giới là gì?
 
 Giới chính là “chỉ ác phòng phi” (ngưng dứt điều ác, phòng ngừa lỗi quấy), được dùng để đối trị tâm tham của quý vị. Tâm tham sẽ làm phát sanh ra niệm ác, đi tham đắm những tài vật không nên tham. Vì sao lại phát sanh loại tâm tham này? Vì không biết gì về giới. Giới chính là ngưng dứt điều ác, phòng ngừa lỗi quấy, Giới dạy cho quý vị biết đủ, biết dừng, không được tham vọng; nếu quý vị biết hành trì giới luật thì có thể đánh bại tâm tham, chiến thắng được tâm tham.
@@ -33,7 +39,7 @@ Thế là từ đó về sau, Trung Hoa có thêm công án “uống dấm” n
 
 ## Tuệ là gì?
 
-Vì sao quý vị ngu si? Vì quý vị không có trí tuệ. Suốt ngày toàn khởi vọng tưởng, bị tâm vọng tưởng chi phối không ngừng; đó là vì không có trí tuệ, cho nên việc gì cũng không nhận rõ. Người có trí tuệ được gọi là “sự lai tắc ứng, sự khứ tắc tịnh”, việc gì đến thì tùy thuận theo đó mà làm; xong việc, hết việc rồi thì để cho tâm được rảnh rang, không để cho sự việc mãi chi phối tâm mình, như cách nói “tâm vi hình dịch” không để cho tâm mãi làm nô lệ cho thân. Vì sao vậy? Vì quý vị không có trí tuệ, không đủ khả năng làm chủ bản thân, trái lại còn bị nó chi phối. Nếu như có trí tuệ thật sự thì tất cả những việc xảy đến quý vị đều có thể nắm lấy mấu chốt để giải quyết (迎刃而解) —giống như cầm lấy con dao bén, bất luận có việc gì xảy đến  đều dùng mũi dao thật sắc xuyên thủng qua chúng! Đây gọi là “nắm lấy mấu chốt để giải quyết”, xử lý vấn đề.
+Vì sao quý vị ngu si? Vì quý vị không có trí tuệ. Suốt ngày toàn khởi vọng tưởng, bị tâm vọng tưởng chi phối không ngừng; đó là vì không có trí tuệ, cho nên việc gì cũng không nhận rõ. Người có trí tuệ được gọi là “sự lai tắc ứng, sự khứ tắc tịnh”, việc gì đến thì tùy thuận theo đó mà làm; xong việc, hết việc rồi thì để cho tâm được rảnh rang, không để cho sự việc mãi chi phối tâm mình, như cách nói “tâm vi hình dịch” không để cho tâm mãi làm nô lệ cho thân. Vì sao vậy? Vì quý vị không có trí tuệ, không đủ khả năng làm chủ bản thân, trái lại còn bị nó chi phối. Nếu như có trí tuệ thật sự thì tất cả những việc xảy đến quý vị đều có thể nắm lấy mấu chốt để giải quyết (迎刃而解) — giống như cầm lấy con dao bén, bất luận có việc gì xảy đến  đều dùng mũi dao thật sắc xuyên thủng qua chúng! Đây gọi là “nắm lấy mấu chốt để giải quyết”, xử lý vấn đề.
 
 Chúng ta là người học Phật pháp phải nhận định rõ ràng tất cả mọi sự việc. Hôm nay tôi nghe Quả Chương dạy Hoa văn cho chúng ta nói rằng: “Người không hiểu rõ Phật pháp quả là người ngu si nhất; người hiểu rõ Phật pháp mới là người có trí tuệ”. Đây thật là lời cách ngôn, rất có đạo lý! Vậy chúng ta là người có trí tuệ thì không ngu si; người ngu si thì không có trí tuệ.
 
@@ -59,15 +65,12 @@ Bốn thiền bốn không xứ, Vô Tưởng Ngũ Na Hàm.
 
 Giống như tỳ kheo Vô Văn lấy từng thiền thứ tư làm quả vị thứ tư, vị ấy đạt đến cõi trời Tứ thiền lại cho rằng mình đạt được quả vị thứ tư; về sau, khi vị ấy bị đọa lạc lại hủy báng Phật rằng: “Phật nói người chứng được quả vị thứ tư sẽ không còn sanh tử, tại sao bây giờ tôi lại bị đọa?” Vị ấy vừa hủy báng Phật như thế liền đọa vào bốn ác thú, vĩnh viễn không ra khỏi. Không chỉ một mình vị ấy đọa vào địa ngục mà mấy vạn đệ tử của vị ấy cũng đọa vào địa ngục theo thầy, nên nói:
 
-Không rõ truyền không biết, cả hai đều mờ mịt;
+    Không rõ truyền không biết, cả hai đều mờ mịt;
+    Sư phụ đọa địa ngục, đệ tử cùng theo gót.
+    (mộng đổng truyền mộng đổng, nhất truyền lưỡng bất đổng;
+    Sư phụ hạ địa ngục, đồ đệ vãng lý củng).
 
-Sư phụ đọa địa ngục, đệ tử cùng theo gót.
-
-(mộng đổng truyền mộng đổng, nhất truyền lưỡng bất đổng;
-
-Sư phụ hạ địa ngục, đồ đệ vãng lý củng).
-
-Đệ tử cũng đọa vào địa ngục theo Thầy, sư phụ bèn hỏi đệ tử: “Các ngươi đến đây làm gì?” Đệ tử thưa rằng: “Thưa Sư phụ, Thầy đã đến nơi nầy, chúng con đương nhiên là phải theo với Thầy!” Sư phụ vừa nghe xong kinh ngạc: “Ồ, làm thế nào mình lại dẫn đệ tử vào trong địa ngục?” Bản thân các đệ tử cũng không hiểu mình đã đến đây bằng cách nào. Quý vị nói xem việc nầy thật là…Những người đệ tử nầy quả là thương mến sư phụ của mình nhất, sư phụ đọa địa ngục, bọn họ cũng theo vào; thật đáng thương vô cùng!
+Đệ tử cũng đọa vào địa ngục theo Thầy, sư phụ bèn hỏi đệ tử: “Các ngươi đến đây làm gì?” Đệ tử thưa rằng: “Thưa Sư phụ, Thầy đã đến nơi nầy, chúng con đương nhiên là phải theo với Thầy!” Sư phụ vừa nghe xong kinh ngạc: “Ồ, làm thế nào mình lại dẫn đệ tử vào trong địa ngục?” Bản thân các đệ tử cũng không hiểu mình đã đến đây bằng cách nào. Quý vị nói xem việc nầy thật là… Những người đệ tử nầy quả là thương mến sư phụ của mình nhất, sư phụ đọa địa ngục, bọn họ cũng theo vào; thật đáng thương vô cùng!
 
 Bốn không xứ chính là cõi trời Không Vô Biên xứ, cõi trời Thức Vô Biên xứ, cõi trời Vô Sở Hữu xứ, cõi trời Phi Tưởng Phi Phi Tưởng xứ của vô sắc giới.
 
@@ -75,7 +78,7 @@ Bốn không xứ chính là cõi trời Không Vô Biên xứ, cõi trời Th�
 
 “Bốn châu, bốn ác thú” là tám cái; “sáu cõi dục, Phạm Thiên” là bảy cái; bảy cộng với tám thành mười lăm. “Bốn thiền, bốn Không xứ” là tám cái; thêm vào “cõi trời Vô Tưởng” và “cõi trời Ngũ Bất Hoàn” thành ra mười cái. Mười lăm cộng với mười thành hai mươi lăm. Đây là hai mươi lăm cõi trong tam giới.
 
-Không còn sự trói buộc trong các cõi chính là siêu vượt tam giới, không còn ở trong dục giới, sắc giới và vô sắc giới, cho nên nói là “ siêu vượt ra ngoài tam giới, không ở trong ngũ hành”, như thế mới thật sự gọi là liễu thoát sanh tử.
+Không còn sự trói buộc trong các cõi chính là siêu vượt tam giới, không còn ở trong dục giới, sắc giới và vô sắc giới, cho nên nói là “siêu vượt ra ngoài tam giới, không ở trong ngũ hành”, như thế mới thật sự gọi là liễu thoát sanh tử.
 
 “Tâm được tự tại”: lúc bấy giờ trong tâm của các vị đại A la hán nầy vô cùng an vui; tự tại là an vui. Không còn tự tại nào bằng, không còn an vui nào bằng! Cho nên vì sao bồ tát Quán Tự Tại được gọi là “Quán Tự Tại?” Chính là Ngài ngồi ở chỗ đó, suốt ngày đều được an vui, tự tại vô cùng, không hề có chút phiền não, tâm đạt được tự do thật sự! Do Ngài đạt được trí tuệ chân chánh cho nên có được sự an vui vô cùng. Niềm an vui nầy là niềm an vui thật sự lưu xuất từ nội tâm, chứ không phải cố ý làm ra vẻ mừng vui cười ha hả. Niềm vui thật sự ở bên trong chứ không phải ở bên ngoài. Qúy vị không nên cho rằng suốt ngày cười ha hả mới là vui, mà trái lại đó chính là phiền não! Đó chính là điên đảo! Vì sao vậy? Qúy vị nhìn thấy sự việc mình ưa thích thì liền bị lôi cuốn theo niềm ưa thích đó (bị cảnh giới lay chuyển). Đó là vì quý vị không có định lực cho nên mới bị sự ưa thích lôi cuốn, cười vui ha hả. Đó có cái gì là an vui thật sự không? Không hề có! Cho nên mới nói đó là điên đảo.
 
