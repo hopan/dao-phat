@@ -27,7 +27,8 @@ Tham khảo:
 - Tam thừa
 - Tam độc
 - Tam thân
-- Tam học
+- [Tam học](../khai_niem/gioi_dinh_tue.md)
+- Tam tướng
 
 ## Tứ - 4
 

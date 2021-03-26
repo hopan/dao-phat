@@ -1,5 +1,10 @@
 # Con đường tu học
 
+\* **Mục lục**
+
+- TOC
+{:toc}
+
 Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o#L%E1%BB%8Bch_tr%C3%ACnh_tu_h%E1%BB%8Dc>
@@ -18,3 +23,8 @@ Theo giáo lý nguyên thủy thì một hành giả đạt bồ-đề, giác ng
 Người tu học thực hành thiền Tứ Niệm Xứ (thiền minh sát hay còn gọi là thiền tuệ, thiền Vipassana) để thấy rõ bản chất của sự vật, đồng thời cũng không ngừng học hỏi, lắng nghe những ý kiến trái chiều và thực hành giáo pháp. Cách thực hành trong Phật giáo cũng được phân chia theo tam học, cụ thể là tu học về giới (giới luật: giới người tại gia và giới của bậc xuất gia), định (thiền định) và tuệ (thiền tuệ, thiền minh sát). Trước hết hành giả phát lòng tin (tín, sa. śraddhā) vào tam bảo, giữ giới luật đúng theo địa vị của mình (cư sĩ, sa-di hoặc tỳ kheo). Qua đó mà ông ta chuẩn bị cho cấp tu học kế đến là thiền định. Cấp này bao gồm bốn trạng thái thiền (tứ thiền). Một số cách thực hành được nhắc đến nhằm hỗ trợ bốn cấp thiền định trên, đó là tứ niệm xứ, Tứ vô lượng tâm, tức là trau dồi bốn tâm thức Từ, Bi, Hỉ và Xả (cũng được gọi là Tứ Phạm trú). Cách thiền định ở cấp này được phân làm hai loại: 1. Chỉ là phương pháp lắng đọng tâm, và 2. Quán là cách thiền quán lập cơ sở trên chỉ, tức là có đạt định an chỉ xong mới có thể thành tựu công phu Quán. Phần thứ ba của tam học là tuệ học, lập cơ sở trên thiền quán. Đối tượng quán chiếu trong thiền định ở đây có thể là tứ diệu đế, nguyên lý duyên khởi hoặc ngũ uẩn. Ai hoàn tất Tam học này sẽ đạt được sự hiểu biết về giải thoát, biết là mình đã đạt giải thoát. Phiền não của hành giả này đã được tận diệt, các lậu hoặc đã chấm dứt (vô lậu) và hành giả ấy đạt tứ thánh quả A-la-hán. Khi tu học, người học Phật cần phải có sự hiểu biết trong Pháp học (toàn bộ tam tạng Pali) và Pháp Hành (Thiền Tứ Niệm Xứ). Người tu học đi theo Trung đạo để đạt đến giác ngộ nghĩa là xa lìa hai lối sống truy hoan và thực hành ép xác khổ hạnh[27]. Người giác ngộ sẽ thấy được sự sinh, sự diệt của tâm và vật chất, thấy được tam tướng vô thường - khổ não - vô ngã, thấy được chân lý tứ thánh đề bằng trí tuệ thiền tuệ để đạt tới giải thoát cuối cùng là Tứ thánh đạo - Tứ thánh quả - Niết bàn.
 
 Song song với cách tu hành theo Tam học trên ta cũng tìm thấy phương cách theo 37 Bồ-đề phần.
+
+## Xem thêm
+
+- [Giới - định - tuệ](../khai_niem/gioi_dinh_tue.md)
+- [Tứ niệm xứ](../khai_niem_so/tu_niem_xu.md)
