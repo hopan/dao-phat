@@ -1,5 +1,10 @@
 # Tam minh
 
+\* **Mục lục**
+
+- TOC
+{:toc}
+
 Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/Tam_minh>

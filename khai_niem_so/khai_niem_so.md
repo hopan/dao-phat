@@ -21,13 +21,11 @@ Tham khảo:
 ## Tam - 3
 
 - Ba bộ phái
-- [Ba học (Giới - định - tuệ)](ba_hoc.md)
+- [Ba học (Giới - định - tuệ)](../khai_niem/gioi_dinh_tue.md)
 - [Tam bảo](tam_bao.md)
 - [Tam minh](tam_minh.md)
 - Tam thừa
 - Tam độc
-- Tứ chính cần
-- Tứ thần túc
 - Tam thân
 - Tam học
 
@@ -35,8 +33,10 @@ Tham khảo:
 
 - [Tứ diệu đế](tu_dieu_de.md)
 - [Tứ thiền](tu_thien.md)
+- Tứ chính cần
+- Tứ thần túc
 - Tứ thánh quả
-- Tứ niệm xứ
+- [Tứ niệm xứ](tu_niem_xu.md)
 
 ## Ngũ - 5
 

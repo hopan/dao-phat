@@ -1,10 +1,3 @@
----
-redirect_to:
-  - /khai_niem/gioi_dinh_tue.html
----
-
 # Ba học: Giới - định - tuệ
 
-<script>
-    console.log("hello");
-</script>
+Chuyển sang [Giới định tuệ](../khai_niem/gioi_dinh_tue.md)
