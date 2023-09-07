@@ -35,6 +35,7 @@ Tham khảo:
 - [Tứ diệu đế](tu_dieu_de.md)
 - [Tứ thiền](tu_thien.md)
 - Tứ chính cần
+- [Tứ pháp ấn](tu_phap_an.md)
 - Tứ thần túc
 - Tứ thánh quả
 - [Tứ niệm xứ](tu_niem_xu.md)
