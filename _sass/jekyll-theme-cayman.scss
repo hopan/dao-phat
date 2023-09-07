@@ -238,6 +238,7 @@ a {
     background-color: $code-bg-color;
     border: solid 1px $border-color;
     border-radius: 0.3rem;
+    text-wrap: wrap;
 
     > code {
       padding: 0;
