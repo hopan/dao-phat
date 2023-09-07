@@ -248,7 +248,7 @@ a {
       white-space: pre;
       background: transparent;
       border: 0;
-      text-wrap: initial;
+      text-wrap: wrap;
     }
   }
 
@@ -282,6 +282,7 @@ a {
     word-wrap: normal;
     background-color: transparent;
     border: 0;
+    text-wrap: wrap;
 
     &:before,
     &:after {
