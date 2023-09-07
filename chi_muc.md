@@ -11,7 +11,7 @@ Tham khảo:
 - A-hàm
 - A-la-hán
 - A-lại-da thức
-- A-tăng-kỳ
+- [A-tăng-kỳ](khai_niem/a_tang_ky.md)
 - A-tì-đạt-ma
 - A-tì-đạt-ma-câu-xá luận
 - A-xà-lê
