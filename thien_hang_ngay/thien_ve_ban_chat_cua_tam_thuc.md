@@ -1,0 +1,49 @@
+# Thiền về bản chất của tâm thức
+
+Tham khảo:
+- <https://cungsonganvui.org/thien-ve-ban-chat-cua-tam-thuc/>
+
+Trích: Thực Hành Thiền Định; Việt dịch: Lê Việt Liên; NXB. Hà Nội; Công ty CP Sách Thái Hà, 2020
+
+Tâm có thể biết gì về bản chất của nó khi tự soi xét? Điều đầu tiên tâm chú ý là dù chúng ta muốn hay không, một chuỗi ý nghĩ cứ liên tục đi qua tâm thức chúng ta, và chúng được nuôi dưỡng bằng các cảm giác, trí tưởng tượng, những hoài niệm và phóng chiếu về tương lai của chúng ta. Tuy nhiên, chẳng lẽ không có một phẩm chất “sáng suốt” của tâm thức soi rọi trải nghiệm của chúng ta, dù nội dung trải nghiệm đó là gì đi nữa hay sao? Phẩm chất đó chính là khả năng nhận biết nền tảng, nằm dưới mọi suy nghĩ; là cái nằm trong cơn giận, nhìn thấy cơn giận, nhưng không phải là cơn giận và cũng không bị lôi cuốn bởi cơn giận. Sự có mặt tỉnh thức đơn thuần này có thể được gọi là “thức thanh tịnh” bởi lẽ người ta có thể cảm nhận được nó ngay cả khi vắng bóng các khái niệm và những tạo dựng của tâm thức.
+
+Thực hành thiền cho thấy rằng nếu để các suy nghĩ của mình lắng xuống, chúng ta có thể trụ được một lát trong trải nghiệm về một tâm thức thanh tịnh không có khái niệm. Không bị những tấm màn của vô minh che khuất, chính mặt nền tảng này của tâm thức được đạo Phật gọi là “bản chất của tâm”, Tất nhiên, khái niệm này không phải là hiển nhiên. Người ta nhận thấy rằng các nhà tâm lý học, các chuyên gia thần kinh và các triết gia tranh luận nhiều về bản chất của ý thức, song hiểu biết về nó sẽ có thể ảnh hưởng tới trải nghiệm của cá nhân chúng ta ra sao? Rõ ràng là chúng ta phải làm việc với ý thức từ sáng đến tối, và rốt cuộc, chính nó quyết định chất lượng của từng khoảnh khắc trong cuộc đời chúng ta. Nếu việc biết rõ hơn bản chất chân thật của tâm và hiểu các cơ chế vận hành của nó có ảnh hưởng sâu sắc tới chất lượng sống thì chúng ta sẽ ý thức rõ hơn về tầm quan trọng của việc tìm hiểu tâm thức. Nếu không, chúng ta sẽ trở nên xa lạ ngay cả với chính mình do không hiểu được tâm thức của mình.
+
+Các suy nghĩ khởi lên từ thức thanh tịnh và lại biến vào đó, hệt như những cơn sóng nổi lên từ đại dương để rồi lại tan biến trong đại dương, mà không bao giờ trở thành cái gì khác ngoài chính đại dương. Điều cốt yếu là ý thức được điều đó, nếu chúng ta muốn thắng vượt những nếp suy nghĩ thường ngày, những phản xạ gây ra đau khổ. Nhận ra bản chất nền tảng của tâm thức và biết cách trụ trong trạng thái không đối ngẫu (hay còn gọi là “không hai”) và không khái niệm là một trong những điều kiện cơ bản để tâm được bình yên và thoát khổ.
+
+## Thiền
+
+Một suy nghĩ khởi lên, như là nó tới từ đâu đó, có thể khiến ta dễ chịu hoặc làm ta rối bời. Nó diễn ra một lát rồi biến mất, nhường chỗ cho những suy nghĩ khác. Như tiếng chuông tan ra, suy nghĩ đó biến đi đâu vậy? Chẳng ai biết. Một số suy nghĩ quay trở lại thường xuyên trong tâm trí chúng ta và chúng gây ra những trạng thái từ vui tới buồn, từ thèm muốn tới lãnh đạm, từ tức giận tới thân thiện. Như thế, các suy nghĩ có quyền lực tối thượng đối với lối sống của chúng ta. Song chẳng cái gì tạo ra quyền lực đó cho chúng. Chúng không có bất cứ một tiềm lực răn đe nào. Bởi vì chỉ là những tạo dựng của tâm thức, nên chúng không thể có khả năng làm hại chúng ta được.
+
+Hãy để tâm quan sát chính nó! Những suy nghĩ khởi lên từ trong đó. Tâm tồn tại bằng cách này hay cách khác, bởi vì chúng ta vẫn đang trải nghiệm về nó. Ngoài việc đó ra, chúng ta có thể nói được thêm điều gì nữa? Hãy xem xét tâm trí chúng ta và những suy nghĩ khởi lên ở trong đó. Liệu có thể gán cho chúng những tính chất cụ thể hay không? Chúng có nơi trú ngụ không? Không. Có màu sắc gì không? Hình dáng gì không? Càng tìm thì chúng ta càng không thấy. Chắc chắn chúng ta nghĩ rằng tâm thức có một khả năng nhận biết, song không có một tính chất hội tại thực thụ nào khác. Chính theo nghĩa đó mà đạo Phật định nghĩa tâm thức là một dòng chảy liên tục của các trải nghiệm: nó không phải là một thực thể riêng biệt, nó “không có tự tính“. Vì không tìm thấy gì có thể làm nên một chất nào đó, chúng ta hãy trụ lại một lúc trong trạng thái “không thấy gì” đó.
+
+Khi một suy nghĩ khởi lên, hãy để nó xuất hiện và tự tan biến; không ngăn chặn, cũng không kéo dài nó. Trong thời gian ngắn ngủi, lúc tâm trí của chúng ta không bị vướng vào những suy nghĩ phân tán, hãy chiêm ngưỡng bản chất của tâm thức! Trong khoảng trống giữa lúc các suy nghĩ quá khứ đã dừng lại và các suy nghĩ tương lai chưa khởi lên, chẳng lẽ chúng ta không nhận thấy một thức thanh tịnh sáng suốt hay sao? Hãy trụ lại một lúc trong trạng thái đơn giản tự nhiên, vắng bóng các khái niệm ấy!
+
+Càng quen dần với bản chất của tâm thức và càng học cách để cho các suy nghĩ tự tan biến ngay khi chúng khởi lên – như thảo ra chữ viết bằng ngón tay trên mặt nước, chúng ta sẽ tiến bộ dễ dàng hơn trên con đường tự do nội tâm. Những nếp suy nghĩ sẽ không còn năng lực duy trì trạng thái nhầm lẫn hay củng cố những khuynh hướng quen thuộc của chúng. Chúng ta sẽ nhìn nhận thực tế ít méo mó hơn và chính những cơ chế gây khổ đau rốt cục cũng biến mắt.
+
+Khi đã có những nguồn lực nội tâm cho phép chúng ta làm chủ các cảm xúc, cảm giác bất an ở ta sẽ được thay thế bằng trạng thái tự do và tin tưởng. Chúng ta sẽ không còn chỉ chăm chăm bận tâm vì những niềm hi vọng và những nỗi lo sợ của mình, và sẽ sẵn sàng vì tất cả những người sống xung quanh ta, sẵn sàng hành động vì lợi ích của mọi người cũng như vì lợi ích của bản thân.
+
+## Những nguồn cảm hứng
+
+> “Những kỷ niệm dĩ vãng xuất hiện trong tâm thức đã vĩnh viễn chấm dứt. Những suy nghĩ liên quan tới tương lai chưa có tính hiện thực chúf nào. Tâm trong hiện tại không thể nắm bắt được: nó không có hình tướng, không có màu sắc; giống như hư không, nó không có thực chất và kbông có thật. Vì vậy, có thể hiểu rằng tâm thức không có bất kỳ một sự tồn tại chắc thật nào.”
+> -- Atisha Dipamkara
+
+“Khi cầu vồng xuất hiện, sáng rực trên bầu trời, bạn có thể ngắm những màu sắc đẹp đẽ của nó, nhưng bạn không thể nắm bắt được nó, không thể mặc nó vào người như một thứ quần áo. Cầu vồng xuất hiện là nhờ sự hội tụ của nhiều yếu tố khác nhau, nhưng không thể cầm nắm vào bất cứ một thứ gì của nó. Đối với các suy nghĩ cũng hệt như vậy. Chúng khởi lên trong tâm thức, nhưng không thực tự có, hoặc không có tính chắc thật nội tại. Vì thế, không một lý lẽ logic nào có thể chứng tỏ được rằng các suy nghĩ không có thực chất lại có quyền lực nhiều đến thế đối với bạn, không một lý lẽ nào có thể chứng minh được rằng bạn là nô lệ của chúng.
+
+Dòng suy nghĩ không dứt về quá khứ, hiện tại và tương lai khiến chúng ta cho rằng có một cái gì đó vốn sẵn có và thường trực. Chúng ta gọi nó là tâm trí. Nhưng thực ra, các suy nghĩ quá khứ cũng chết như những thây xác, và những suy nghĩ tương lai thì chưa tới. Như vậy, làm sao hai loại suy nghĩ không tồn tại này lại có thể là một thực thể tồn tại được? Và bằng cách nào suy nghĩ hiện tại có thể dựa vào hai thứ không tồn tại kia cơ chứ?
+
+Tuy thế, tính rỗng không của các suy nghĩ không đơn thuần là sự trống rỗng, như người ta có thể nói về hư không. Trong đó, vẫn hiện diện một thức trực giác, một trạng thái sáng suốt có thể ví như vầng dương chiếu rọi các cảnh vật và giúp ta nhìn thấy những ngọn núi, những con đường và ghềnh thác.
+
+Mặc dù tâm có được ý thức nội tại này, nhưng khẳng định rằng có một tâm thức thì cũng giống như dán một cái nhãn lên hiện thực về một cái gì đó không có, tức là báo hiệu sự tồn tại của một thứ mà thực chất chỉ là một cái tên gán cho một chuỗi sự kiện nối tiếp nhau mà thôi. Cũng như các ngọc trai được xâu vào với nhau tạo ra món đồ trang sức gọi là “chuỗi”, song “chuỗi” này không phải là một thực thể tự nó tồn tại. Khi dây xâu đứt, còn gì là chuỗi nữa?
+
+Khyentsé Rinpoché
+
+“Dần dần, tôi bắt đầu nhận ra tính chất mong manh và phù du của các suy nghĩ và cảm xúc đã làm tôi rối bời trong nhiều năm, và tôi đã hiểu vì sao trong khi chỉ tập trung vào những mắc mớ nhỏ nhoi, tôi lại biến chúng thành những chuyện lớn. Chỉ nhờ việc ngồi quan sát những suy nghĩ và cảm xúc của mình đến và đi với tần số ra sao và phi lý như thế nào, tôi đã trực tiếp nhìn thấy chúng không chắc thật như vẻ ngoài của chúng. Thế rồi, một khi đã bắt đầu rũ bỏ mọi ám ảnh do chúng đưa lại, tôi dần dần nhận ra gương mặt thật của “tác giả” ở phía sau những suy nghĩ và cảm xúc: đó là tâm thức thênh thang vô biên, rộng mở vô cùng; nó chính là bản chất của ý thức.
+
+Mọi ý định dùng từ ngữ để mô tả trải nghiệm trực tiếp về bản chất của tâm thức đều vô nghĩa. Tất cả những gì người ta có thể nói về nó là: đó là một trải nghiệm vô cùng êm dịu và hầu như bất động, một khi đã có sự ổn định nhờ hành thiền nhiều. Đó là một kinh nghiệm về hạnh phúc tối hậu, nó thấm đẫm vào mọi trạng thái thể chất và tinh thần, ngay cả những trạng thái lúc bình thường bị coi là khó chịu. Cái cảm giác an lạc, không phụ thuộc vào tính thất thường của các cảm xúc nội tâm hay ngoại cảnh ấy là một trong những cách rõ ràng nhất để hiểu cái mà đạo Phật gọi là hạnh phúc”.
+
+Yongey Mingyour Rinpoché
+
+“Bản chất của tâm thức được ví như đại dương, hay bầu trời. Những chuyển động không ngừng của các cơn sóng ở trên bề mặt đại dương không cho chúng ta thấy được những tầng sâu của nó. Nếu lặn xuống, không còn sóng nữa thì đó là yên tĩnh mênh mông của đáy biển… Bản chất của đại dương là bất động. Hãy nhìn lên bầu trời! Đôi khi chúng ta thấy nó trong và sáng. Có những lúc, nó lại bị các đám mây che phủ, khiến cho sự nhìn nhận của chúng ta cũng thay đổi theo. Tuy thế, các đám mây không thể thay đổi được bản chất của bầu trời. […| Tâm thức chẳng là gì khác ngoài bản chất hoàn toàn tự do… Hãy trụ trong bản chất đơn giản của tâm, nó siêu việt mọi khái niệm.”
+
+Pema Wangyal Rinpoche
