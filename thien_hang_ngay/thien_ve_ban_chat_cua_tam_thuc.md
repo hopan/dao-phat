@@ -26,17 +26,18 @@ Khi đã có những nguồn lực nội tâm cho phép chúng ta làm chủ cá
 ## Những nguồn cảm hứng
 
 > “Những kỷ niệm dĩ vãng xuất hiện trong tâm thức đã vĩnh viễn chấm dứt. Những suy nghĩ liên quan tới tương lai chưa có tính hiện thực chúf nào. Tâm trong hiện tại không thể nắm bắt được: nó không có hình tướng, không có màu sắc; giống như hư không, nó không có thực chất và kbông có thật. Vì vậy, có thể hiểu rằng tâm thức không có bất kỳ một sự tồn tại chắc thật nào.”
-> -- Atisha Dipamkara
+>
+> -- <cite>Atisha Dipamkara</cite>
 
-“Khi cầu vồng xuất hiện, sáng rực trên bầu trời, bạn có thể ngắm những màu sắc đẹp đẽ của nó, nhưng bạn không thể nắm bắt được nó, không thể mặc nó vào người như một thứ quần áo. Cầu vồng xuất hiện là nhờ sự hội tụ của nhiều yếu tố khác nhau, nhưng không thể cầm nắm vào bất cứ một thứ gì của nó. Đối với các suy nghĩ cũng hệt như vậy. Chúng khởi lên trong tâm thức, nhưng không thực tự có, hoặc không có tính chắc thật nội tại. Vì thế, không một lý lẽ logic nào có thể chứng tỏ được rằng các suy nghĩ không có thực chất lại có quyền lực nhiều đến thế đối với bạn, không một lý lẽ nào có thể chứng minh được rằng bạn là nô lệ của chúng.
-
-Dòng suy nghĩ không dứt về quá khứ, hiện tại và tương lai khiến chúng ta cho rằng có một cái gì đó vốn sẵn có và thường trực. Chúng ta gọi nó là tâm trí. Nhưng thực ra, các suy nghĩ quá khứ cũng chết như những thây xác, và những suy nghĩ tương lai thì chưa tới. Như vậy, làm sao hai loại suy nghĩ không tồn tại này lại có thể là một thực thể tồn tại được? Và bằng cách nào suy nghĩ hiện tại có thể dựa vào hai thứ không tồn tại kia cơ chứ?
-
-Tuy thế, tính rỗng không của các suy nghĩ không đơn thuần là sự trống rỗng, như người ta có thể nói về hư không. Trong đó, vẫn hiện diện một thức trực giác, một trạng thái sáng suốt có thể ví như vầng dương chiếu rọi các cảnh vật và giúp ta nhìn thấy những ngọn núi, những con đường và ghềnh thác.
-
-Mặc dù tâm có được ý thức nội tại này, nhưng khẳng định rằng có một tâm thức thì cũng giống như dán một cái nhãn lên hiện thực về một cái gì đó không có, tức là báo hiệu sự tồn tại của một thứ mà thực chất chỉ là một cái tên gán cho một chuỗi sự kiện nối tiếp nhau mà thôi. Cũng như các ngọc trai được xâu vào với nhau tạo ra món đồ trang sức gọi là “chuỗi”, song “chuỗi” này không phải là một thực thể tự nó tồn tại. Khi dây xâu đứt, còn gì là chuỗi nữa?
-
-Khyentsé Rinpoché
+> “Khi cầu vồng xuất hiện, sáng rực trên bầu trời, bạn có thể ngắm những màu sắc đẹp đẽ của nó, nhưng bạn không thể nắm bắt được nó, không thể mặc nó vào người như một thứ quần áo. Cầu vồng xuất hiện là nhờ sự hội tụ của nhiều yếu tố khác nhau, nhưng không thể cầm nắm vào bất cứ một thứ gì của nó. Đối với các suy nghĩ cũng hệt như vậy. Chúng khởi lên trong tâm thức, nhưng không thực tự có, hoặc không có tính chắc thật nội tại. Vì thế, không một lý lẽ logic nào có thể chứng tỏ được rằng các suy nghĩ không có thực chất lại có quyền lực nhiều đến thế đối với bạn, không một lý lẽ nào có thể chứng minh được rằng bạn là nô lệ của chúng.
+> 
+> Dòng suy nghĩ không dứt về quá khứ, hiện tại và tương lai khiến chúng ta cho rằng có một cái gì đó vốn sẵn có và thường trực. Chúng ta gọi nó là tâm trí. Nhưng thực ra, các suy nghĩ quá khứ cũng chết như những thây xác, và những suy nghĩ tương lai thì chưa tới. Như vậy, làm sao hai loại suy nghĩ không tồn tại này lại có thể là một thực thể tồn tại được? Và bằng cách nào suy nghĩ hiện tại có thể dựa vào hai thứ không tồn tại kia cơ chứ?
+>
+> Tuy thế, tính rỗng không của các suy nghĩ không đơn thuần là sự trống rỗng, như người ta có thể nói về hư không. Trong đó, vẫn hiện diện một thức trực giác, một trạng thái sáng suốt có thể ví như vầng dương chiếu rọi các cảnh vật và giúp ta nhìn thấy những ngọn núi, những con đường và ghềnh thác.
+>
+> Mặc dù tâm có được ý thức nội tại này, nhưng khẳng định rằng có một tâm thức thì cũng giống như dán một cái nhãn lên hiện thực về một cái gì đó không có, tức là báo hiệu sự tồn tại của một thứ mà thực chất chỉ là một cái tên gán cho một chuỗi sự kiện nối tiếp nhau mà thôi. Cũng như các ngọc trai được xâu vào với nhau tạo ra món đồ trang sức gọi là “chuỗi”, song “chuỗi” này không phải là một thực thể tự nó tồn tại. Khi dây xâu đứt, còn gì là chuỗi nữa?
+>
+> -- <cite>Khyentsé Rinpoché</cite>
 
 “Dần dần, tôi bắt đầu nhận ra tính chất mong manh và phù du của các suy nghĩ và cảm xúc đã làm tôi rối bời trong nhiều năm, và tôi đã hiểu vì sao trong khi chỉ tập trung vào những mắc mớ nhỏ nhoi, tôi lại biến chúng thành những chuyện lớn. Chỉ nhờ việc ngồi quan sát những suy nghĩ và cảm xúc của mình đến và đi với tần số ra sao và phi lý như thế nào, tôi đã trực tiếp nhìn thấy chúng không chắc thật như vẻ ngoài của chúng. Thế rồi, một khi đã bắt đầu rũ bỏ mọi ám ảnh do chúng đưa lại, tôi dần dần nhận ra gương mặt thật của “tác giả” ở phía sau những suy nghĩ và cảm xúc: đó là tâm thức thênh thang vô biên, rộng mở vô cùng; nó chính là bản chất của ý thức.
 
