@@ -27,7 +27,7 @@ Khi đã có những nguồn lực nội tâm cho phép chúng ta làm chủ cá
 
 > “Những kỷ niệm dĩ vãng xuất hiện trong tâm thức đã vĩnh viễn chấm dứt. Những suy nghĩ liên quan tới tương lai chưa có tính hiện thực chúf nào. Tâm trong hiện tại không thể nắm bắt được: nó không có hình tướng, không có màu sắc; giống như hư không, nó không có thực chất và kbông có thật. Vì vậy, có thể hiểu rằng tâm thức không có bất kỳ một sự tồn tại chắc thật nào.”
 >
-> -- <cite>Atisha Dipamkara</cite>
+> <div style="text-align: right">Atisha Dipamkara</div>
 
 > “Khi cầu vồng xuất hiện, sáng rực trên bầu trời, bạn có thể ngắm những màu sắc đẹp đẽ của nó, nhưng bạn không thể nắm bắt được nó, không thể mặc nó vào người như một thứ quần áo. Cầu vồng xuất hiện là nhờ sự hội tụ của nhiều yếu tố khác nhau, nhưng không thể cầm nắm vào bất cứ một thứ gì của nó. Đối với các suy nghĩ cũng hệt như vậy. Chúng khởi lên trong tâm thức, nhưng không thực tự có, hoặc không có tính chắc thật nội tại. Vì thế, không một lý lẽ logic nào có thể chứng tỏ được rằng các suy nghĩ không có thực chất lại có quyền lực nhiều đến thế đối với bạn, không một lý lẽ nào có thể chứng minh được rằng bạn là nô lệ của chúng.
 > 
