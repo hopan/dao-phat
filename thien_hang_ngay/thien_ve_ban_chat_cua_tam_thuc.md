@@ -39,12 +39,12 @@ Khi đã có những nguồn lực nội tâm cho phép chúng ta làm chủ cá
 >
 > -- <cite>Khyentsé Rinpoché</cite>
 
-“Dần dần, tôi bắt đầu nhận ra tính chất mong manh và phù du của các suy nghĩ và cảm xúc đã làm tôi rối bời trong nhiều năm, và tôi đã hiểu vì sao trong khi chỉ tập trung vào những mắc mớ nhỏ nhoi, tôi lại biến chúng thành những chuyện lớn. Chỉ nhờ việc ngồi quan sát những suy nghĩ và cảm xúc của mình đến và đi với tần số ra sao và phi lý như thế nào, tôi đã trực tiếp nhìn thấy chúng không chắc thật như vẻ ngoài của chúng. Thế rồi, một khi đã bắt đầu rũ bỏ mọi ám ảnh do chúng đưa lại, tôi dần dần nhận ra gương mặt thật của “tác giả” ở phía sau những suy nghĩ và cảm xúc: đó là tâm thức thênh thang vô biên, rộng mở vô cùng; nó chính là bản chất của ý thức.
+> “Dần dần, tôi bắt đầu nhận ra tính chất mong manh và phù du của các suy nghĩ và cảm xúc đã làm tôi rối bời trong nhiều năm, và tôi đã hiểu vì sao trong khi chỉ tập trung vào những mắc mớ nhỏ nhoi, tôi lại biến chúng thành những chuyện lớn. Chỉ nhờ việc ngồi quan sát những suy nghĩ và cảm xúc của mình đến và đi với tần số ra sao và phi lý như thế nào, tôi đã trực tiếp nhìn thấy chúng không chắc thật như vẻ ngoài của chúng. Thế rồi, một khi đã bắt đầu rũ bỏ mọi ám ảnh do chúng đưa lại, tôi dần dần nhận ra gương mặt thật của “tác giả” ở phía sau những suy nghĩ và cảm xúc: đó là tâm thức thênh thang vô biên, rộng mở vô cùng; nó chính là bản chất của ý thức.
+>
+> Mọi ý định dùng từ ngữ để mô tả trải nghiệm trực tiếp về bản chất của tâm thức đều vô nghĩa. Tất cả những gì người ta có thể nói về nó là: đó là một trải nghiệm vô cùng êm dịu và hầu như bất động, một khi đã có sự ổn định nhờ hành thiền nhiều. Đó là một kinh nghiệm về hạnh phúc tối hậu, nó thấm đẫm vào mọi trạng thái thể chất và tinh thần, ngay cả những trạng thái lúc bình thường bị coi là khó chịu. Cái cảm giác an lạc, không phụ thuộc vào tính thất thường của các cảm xúc nội tâm hay ngoại cảnh ấy là một trong những cách rõ ràng nhất để hiểu cái mà đạo Phật gọi là hạnh phúc”.
+>
+> -- <cite>Yongey Mingyour Rinpoché</cite>
 
-Mọi ý định dùng từ ngữ để mô tả trải nghiệm trực tiếp về bản chất của tâm thức đều vô nghĩa. Tất cả những gì người ta có thể nói về nó là: đó là một trải nghiệm vô cùng êm dịu và hầu như bất động, một khi đã có sự ổn định nhờ hành thiền nhiều. Đó là một kinh nghiệm về hạnh phúc tối hậu, nó thấm đẫm vào mọi trạng thái thể chất và tinh thần, ngay cả những trạng thái lúc bình thường bị coi là khó chịu. Cái cảm giác an lạc, không phụ thuộc vào tính thất thường của các cảm xúc nội tâm hay ngoại cảnh ấy là một trong những cách rõ ràng nhất để hiểu cái mà đạo Phật gọi là hạnh phúc”.
-
-Yongey Mingyour Rinpoché
-
-“Bản chất của tâm thức được ví như đại dương, hay bầu trời. Những chuyển động không ngừng của các cơn sóng ở trên bề mặt đại dương không cho chúng ta thấy được những tầng sâu của nó. Nếu lặn xuống, không còn sóng nữa thì đó là yên tĩnh mênh mông của đáy biển… Bản chất của đại dương là bất động. Hãy nhìn lên bầu trời! Đôi khi chúng ta thấy nó trong và sáng. Có những lúc, nó lại bị các đám mây che phủ, khiến cho sự nhìn nhận của chúng ta cũng thay đổi theo. Tuy thế, các đám mây không thể thay đổi được bản chất của bầu trời. […| Tâm thức chẳng là gì khác ngoài bản chất hoàn toàn tự do… Hãy trụ trong bản chất đơn giản của tâm, nó siêu việt mọi khái niệm.”
-
-Pema Wangyal Rinpoche
+> “Bản chất của tâm thức được ví như đại dương, hay bầu trời. Những chuyển động không ngừng của các cơn sóng ở trên bề mặt đại dương không cho chúng ta thấy được những tầng sâu của nó. Nếu lặn xuống, không còn sóng nữa thì đó là yên tĩnh mênh mông của đáy biển… Bản chất của đại dương là bất động. Hãy nhìn lên bầu trời! Đôi khi chúng ta thấy nó trong và sáng. Có những lúc, nó lại bị các đám mây che phủ, khiến cho sự nhìn nhận của chúng ta cũng thay đổi theo. Tuy thế, các đám mây không thể thay đổi được bản chất của bầu trời. […| Tâm thức chẳng là gì khác ngoài bản chất hoàn toàn tự do… Hãy trụ trong bản chất đơn giản của tâm, nó siêu việt mọi khái niệm.”
+>
+> -- <cite>Pema Wangyal Rinpoche</cite>
