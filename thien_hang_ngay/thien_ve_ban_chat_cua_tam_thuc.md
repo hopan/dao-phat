@@ -45,6 +45,6 @@ Khi đã có những nguồn lực nội tâm cho phép chúng ta làm chủ cá
 >
 > <div style="text-align: right">-- Yongey Mingyour Rinpoché</div>
 
-> “Bản chất của tâm thức được ví như đại dương, hay bầu trời. Những chuyển động không ngừng của các cơn sóng ở trên bề mặt đại dương không cho chúng ta thấy được những tầng sâu của nó. Nếu lặn xuống, không còn sóng nữa thì đó là yên tĩnh mênh mông của đáy biển… Bản chất của đại dương là bất động. Hãy nhìn lên bầu trời! Đôi khi chúng ta thấy nó trong và sáng. Có những lúc, nó lại bị các đám mây che phủ, khiến cho sự nhìn nhận của chúng ta cũng thay đổi theo. Tuy thế, các đám mây không thể thay đổi được bản chất của bầu trời. […| Tâm thức chẳng là gì khác ngoài bản chất hoàn toàn tự do… Hãy trụ trong bản chất đơn giản của tâm, nó siêu việt mọi khái niệm.”
+> “Bản chất của tâm thức được ví như đại dương, hay bầu trời. Những chuyển động không ngừng của các cơn sóng ở trên bề mặt đại dương không cho chúng ta thấy được những tầng sâu của nó. Nếu lặn xuống, không còn sóng nữa thì đó là yên tĩnh mênh mông của đáy biển… Bản chất của đại dương là bất động. Hãy nhìn lên bầu trời! Đôi khi chúng ta thấy nó trong và sáng. Có những lúc, nó lại bị các đám mây che phủ, khiến cho sự nhìn nhận của chúng ta cũng thay đổi theo. Tuy thế, các đám mây không thể thay đổi được bản chất của bầu trời. Tâm thức chẳng là gì khác ngoài bản chất hoàn toàn tự do… Hãy trụ trong bản chất đơn giản của tâm, nó siêu việt mọi khái niệm.”
 >
 > <div style="text-align: right">-- Pema Wangyal Rinpoche</div>
