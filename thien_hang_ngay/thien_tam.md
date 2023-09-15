@@ -1,5 +1,8 @@
 # Thiền tắm
 
+Tham khảo:
+- <https://www.drukpavietnam.org/ban-da-bao-gio-thien-trong-khi-tam>
+
 Dù bạn tắm trước hay sau bữa sáng thì đó cũng là khoảng thời gian để bạn chú tâm vào bản thân. Để tắm trong chính niệm, đầu tiên bạn phải gạt bỏ mọi ý nghĩ gây xao nhãng ra khỏi tâm trí, rồi từ từ chuyển động và tận hưởng từng cảm giác đang diễn ra. Bạn có thể nêu rõ ý định của mình nếu điều đó giúp ích cho bạn: "Tôi đang buông bỏ mọi âu lo để tập trung vào cơ thể và các giác quan của tôi".
 
 
@@ -18,3 +21,8 @@ Dù bạn tắm trước hay sau bữa sáng thì đó cũng là khoảng thời
 7. **Tiếp tục chú tâm vào những cảm giác**. Khi bạn bước ra khỏi buồng tắm, hãy để ý tới bề mặt của chiếc khăn mà bạn dùng để lau khô người. Để ý xem chiếc khăn thấm nước như thế nào, lớp da khô cọ vào khăn có cảm giác ra sao.
 
 8. Khi bạn nhìn vào trong gương, **hãy nhớ đến lời hứa sẽ nói những lời từ ái, yêu thương về bản thân mình (và với những người khác)**.
+
+## Các bài liên quan
+
+- [Thiền ăn cơm](thien_an_com.md)
+- [Thiền quýt](thien_quyt.md)

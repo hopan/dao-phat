@@ -21,3 +21,8 @@ Này các con, ăn quýt trong tỉnh thức có nghĩa là trong khi ăn quýt 
 Người tu tập phép tỉnh thức khi cầm trái quýt trong tay và nhìn vào trái quýt có thể thấy được những điều mà người khác không thấy. Nhìn trái quýt trong tỉnh thức, các con có thể thấy được cây quýt, các con có thể thấy được cây quýt nở hoa trong mùa Xuân, các con có thể thấy được ánh nắng và giọt mưa đang nuôi lớn trái quýt. Nhìn sâu hơn nữa các con có thể thấy được muôn vật trong vũ trụ đang tiếp tay nhau để làm cho trái quýt có mặt. Nhìn một trái quýt như thế người tu tập phép tỉnh thức có thể thấy được những sự mầu nhiệm của vũ trụ và đồng thời cũng thấy được sự giao tiếp trùng trùng của mọi vật trong vũ trụ đối với nhau".
 
 Này các con, đời sống hàng ngày của chúng ta cũng giống như một trái quýt. Nếu trái quýt có thể có chín múi hoặc mười múi hay mười hai múi, thì mỗi ngày cũng có hai mươi bốn giờ. Mỗi giờ là một múi quýt. Sống một ngày hai mươi bốn giờ cũng như ăn cả một trái quýt: con đường mà ta tìm ra là con đường sống tỉnh thức suốt hai mươi bốn giờ một ngày, thân và tâm luôn luôn an trú trong hiện tại. Ngược lại tức là sống trong quên lãng. Sống trong quên lãng tức là sống mà không biết mình sống, sống mà không thật sự tiếp xúc với sự sống, bởi vì thân tâm mình không an trú trong hiện tại".
+
+## Các bài liên quan
+
+- [Thiền ăn cơm](thien_an_com.md)
+- [Thiền tắm](thien_tam.md)
