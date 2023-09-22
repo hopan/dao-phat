@@ -1,6 +1,6 @@
 # Thiền ăn cơm
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}
