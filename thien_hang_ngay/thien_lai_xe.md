@@ -3,10 +3,10 @@
 Tham khảo:
 - <https://langmai.org/thien-duong/tt-can-ban-lang-mai/thien-quyt/>
 
-> Trước khi cho máy nổ
-> Tôi biết tôi đi đâu
-> Tôi với xe là một
-> Xe mau tôi cũng mau.
+    Trước khi cho máy nổ
+    Tôi biết tôi đi đâu
+    Tôi với xe là một
+    Xe mau tôi cũng mau.
 
 Nhiều khi chúng ta không thực sự cần dùng đến xe hơi nhưng vì chúng ta muốn trốn tránh chính mình nên ta muốn lái xe đi đâu đó. Ta cảm thấy một sự trống trải trong lòng và ta không muốn đối diện nó. Ta không thích bị bận rộn suốt ngày nhưng hễ có chút thời gian rảnh thì ta lại sợ phải đối diện với chính mình. Ta muốn chạy trốn. Ta chạy trốn bằng nhiều cách, hoặc là ta mở máy truyền hình, ta gọi điện thoại, ta đọc tiểu thuyết, ta tìm một người bạn để đi phố chơi hoặc là ta phải rồ xe chạy đi đâu đó, đi đâu cũng được. Chính nền văn minh của chúng ta đã dạy ta cách hành xử như vậy và cung cấp cho ta đủ mọi tiện nghi để ta đánh mất chính mình. Nếu đúng vào lúc bạn định vặn chìa khóa để khởi động xe mà bạn đọc bài kệ này thì bài kệ sẽ như ánh đuốc soi sáng cho bạn và bạn sẽ chợt thấy là mình không cần phải đi đâu cả. Vì dù đi đâu, bạn cũng không thể thoát khỏi được cái “ta”. Tốt hơn hết là bạn tắt máy xe và hãy xuống xe để đi thiền hành. Chắc chắn bạn sẽ cảm thấy thú vị hơn nhiều.
 
