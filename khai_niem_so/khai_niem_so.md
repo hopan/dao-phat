@@ -25,7 +25,7 @@ Tham khảo:
 - [Tam bảo](tam_bao.md)
 - [Tam minh](tam_minh.md)
 - Tam thừa
-- Tam độc
+- [Tam độc](tam_doc.md)
 - Tam thân
 - [Tam học](../khai_niem/gioi_dinh_tue.md)
 - Tam tướng

@@ -56,6 +56,11 @@
 		<lastmod>2023-05-06</lastmod>
 	</url>
 	<url>
+		<loc>https://hopan.vn/khai_niem_so/tam_doc.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-09-22</lastmod>
+	</url>
+	<url>
 		<loc>https://hopan.vn/con_nguoi/cac_vi_phat.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2023-05-06</lastmod>
@@ -439,6 +444,11 @@
 		<loc>https://hopan.vn/_layouts/default.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2023-05-06</lastmod>
+	</url>
+	<url>
+		<loc>https://hopan.vn/thien_hang_ngay/thien_lai_xe.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-09-22</lastmod>
 	</url>
 	<url>
 		<loc>https://hopan.vn/sach/thien_hanh_yeu_chi/thien_hanh_yeu_chi.html</loc>
