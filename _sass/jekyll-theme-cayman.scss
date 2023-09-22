@@ -221,7 +221,7 @@ a {
 
   code {
     padding: 2px 4px;
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: monospace, "Liberation Mono", Menlo, Courier;
     font-size: 0.9rem;
     color: $code-text-color;
     background-color: $code-bg-color;
@@ -232,7 +232,7 @@ a {
     padding: 0.8rem;
     margin-top: 0;
     margin-bottom: 1rem;
-    font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font: 1rem monospace, "Liberation Mono", Menlo, Courier;
     color: $code-text-color;
     word-wrap: normal;
     background-color: $code-bg-color;
