@@ -39,6 +39,7 @@ Tham khảo:
 - Tứ thần túc
 - Tứ thánh quả
 - [Tứ niệm xứ](tu_niem_xu.md)
+- [Tứ vô lượng tâm](tu_vo_luong_tam.md)
 
 ## Ngũ - 5
 
