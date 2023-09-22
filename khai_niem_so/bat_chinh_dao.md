@@ -1,6 +1,6 @@
 # Bát chính đạo
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

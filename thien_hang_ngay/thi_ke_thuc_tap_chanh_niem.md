@@ -1,6 +1,6 @@
 # Thi kệ thực tập chánh niệm
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

@@ -1,6 +1,6 @@
 # Con đường tu học
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

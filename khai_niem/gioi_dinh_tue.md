@@ -1,6 +1,6 @@
 # Giới - định - tuệ
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

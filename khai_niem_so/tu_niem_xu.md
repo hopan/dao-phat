@@ -1,6 +1,6 @@
 # Tứ niệm xứ
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

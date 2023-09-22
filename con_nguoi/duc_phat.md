@@ -1,6 +1,6 @@
 # Đức Phật - Tất-đạt-đa Cồ-đàm
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

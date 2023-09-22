@@ -1,6 +1,6 @@
 # Lịch sử Phật giáo
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

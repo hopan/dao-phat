@@ -6,7 +6,7 @@ layout: default
 
 # Hihi 2
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

@@ -1,6 +1,6 @@
 # Tam minh
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

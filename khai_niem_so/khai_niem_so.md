@@ -1,6 +1,6 @@
 # Khái niệm số
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

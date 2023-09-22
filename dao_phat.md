@@ -1,6 +1,6 @@
 # Đạo Phật
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

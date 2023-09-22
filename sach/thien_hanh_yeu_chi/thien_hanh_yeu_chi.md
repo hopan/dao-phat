@@ -1,6 +1,6 @@
 # Thiền hành yếu chỉ
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}

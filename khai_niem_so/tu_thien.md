@@ -1,6 +1,6 @@
 # Tứ thiền
 
-\* **Mục lục**
+**Mục lục**
 
 - TOC
 {:toc}
