@@ -53,8 +53,9 @@ Tham khảo:
 
 ## Lục - 6
 
-- Lục thông
-- Lục đạo - 6 cõi giới luân hồi
+- [Lục thông](luc_thong.md)
+- [Lục đạo luân hồi](luc_dao.md)
+- [Lục độ ba la mật](luc_do_ba_la_mat.md)
 - Lục xúc
 - Lục hòa
 
