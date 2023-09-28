@@ -1,5 +1,5 @@
 ---
-title: Đạo phật | hopan.vn
+title: Đạo phật - hopan.vn
 ---
 
 - [Đạo Phật](dao_phat.md)
