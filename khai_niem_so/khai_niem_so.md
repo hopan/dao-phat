@@ -21,20 +21,20 @@ Tham khảo:
 ## Tam - 3
 
 - Ba bộ phái
-- [Ba học (Giới - định - tuệ)](../khai_niem/gioi_dinh_tue.md)
 - [Tam bảo](tam_bao.md)
-- [Tam minh](tam_minh.md)
-- Tam thừa
 - [Tam độc](tam_doc.md)
+- [Tam học (Giới - định - tuệ)](../khai_niem/gioi_dinh_tue.md)
+- [Tam minh](tam_minh.md)
 - Tam thân
-- [Tam học](../khai_niem/gioi_dinh_tue.md)
+- Tam thừa
 - Tam tướng
+
 
 ## Tứ - 4
 
 - [Tứ diệu đế](tu_dieu_de.md)
 - [Tứ thiền](tu_thien.md)
-- Tứ chính cần
+- [Tứ chánh cần](tu_chanh_can.md)
 - [Tứ pháp ấn](tu_phap_an.md)
 - Tứ thần túc
 - Tứ thánh quả
