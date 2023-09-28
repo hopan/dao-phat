@@ -1,3 +1,6 @@
+---
+title: Đạo phật | hopan.vn
+---
 
 - [Đạo Phật](dao_phat.md)
 - [Các nội dung chính](noi_dung_chinh.md)
