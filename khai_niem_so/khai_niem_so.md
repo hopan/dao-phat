@@ -26,9 +26,8 @@ Tham khảo:
 - [Tam học (Giới - định - tuệ)](../khai_niem/gioi_dinh_tue.md)
 - [Tam minh](tam_minh.md)
 - Tam thân
-- Tam thừa
+- [Tam thừa](tham_thua.md)
 - Tam tướng
-
 
 ## Tứ - 4
 
@@ -37,18 +36,17 @@ Tham khảo:
 - [Tứ chánh cần](tu_chanh_can.md)
 - [Tứ pháp ấn](tu_phap_an.md)
 - Tứ thần túc
-- Tứ thánh quả
+- [Tứ thánh quả](tu_thanh_qua.md)
 - [Tứ niệm xứ](tu_niem_xu.md)
 - [Tứ vô lượng tâm](tu_vo_luong_tam.md)
 
 ## Ngũ - 5
 
 - Ngũ uẩn
-- 5 giới
+- Ngũ giới
 - Ngũ căn
 - Ngũ lực
-- 5 triền cái
-- Ngũ cái
+- Ngũ cái/ Ngũ triền cái 
 - Năm mức định
 
 ## Lục - 6
