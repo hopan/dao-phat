@@ -26,7 +26,7 @@ Tham khảo:
 - [Tam học (Giới - định - tuệ)](../khai_niem/gioi_dinh_tue.md)
 - [Tam minh](tam_minh.md)
 - Tam thân
-- [Tam thừa](tham_thua.md)
+- [Tam thừa](tam_thua.md)
 - Tam tướng
 
 ## Tứ - 4
