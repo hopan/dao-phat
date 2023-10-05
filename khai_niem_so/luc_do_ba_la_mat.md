@@ -27,9 +27,9 @@ Giúp ta khắc phục tâm tham ái, nỗi khốn khổ và tính keo ki�
 Giúp đỡ người khác trong lúc khó khăn.
 
 Bố thí có ba loại:
-1) Tài thí: tức bố thí tiền.
-2) Pháp thí: tức bố thí pháp.
-3) Vô úy thí: tức bố thí sự không sợ hãi.
+1. Tài thí: tức bố thí tiền.
+2. Pháp thí: tức bố thí pháp.
+3. Vô úy thí: tức bố thí sự không sợ hãi.
 
 ## 2. Trì giới
 Kỷ luật đạo đức tự giác là khi mình kềm chế hành vi phá hoại, nhờ nhận thức được những bất lợi của nó. Những lợi ích là nó:
