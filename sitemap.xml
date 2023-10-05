@@ -6,6 +6,21 @@
 		<lastmod>2023-09-28</lastmod>
 	</url>
 	<url>
+		<loc>https://hopan.vn/thien_hang_ngay</loc>
+		<priority>0.75</priority>
+		<lastmod>2023-10-05</lastmod>
+	</url>
+	<url>
+		<loc>https://hopan.vn/lich_su_dia_ly</loc>
+		<priority>0.75</priority>
+		<lastmod>2023-10-05</lastmod>
+	</url>
+	<url>
+		<loc>https://hopan.vn/kinh_dien</loc>
+		<priority>0.75</priority>
+		<lastmod>2023-10-05</lastmod>
+	</url>
+	<url>
 		<loc>https://hopan.vn/dao_phat_va_vat_ly.html</loc>
 		<priority>0.75</priority>
 		<lastmod>2023-09-30</lastmod>
@@ -63,6 +78,21 @@
 	<url>
 		<loc>https://hopan.vn/khai_niem_so</loc>
 		<priority>0.75</priority>
+		<lastmod>2023-10-05</lastmod>
+	</url>
+	<url>
+		<loc>https://hopan.vn/khai_niem</loc>
+		<priority>0.75</priority>
+		<lastmod>2023-10-05</lastmod>
+	</url>
+	<url>
+		<loc>https://hopan.vn/con_nguoi</loc>
+		<priority>0.75</priority>
+		<lastmod>2023-10-05</lastmod>
+	</url>
+	<url>
+		<loc>https://hopan.vn/con_nguoi/con_nguoi.md</loc>
+		<priority>0.50</priority>
 		<lastmod>2023-10-05</lastmod>
 	</url>
 	<url>
