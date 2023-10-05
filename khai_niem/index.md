@@ -1,1 +1,1 @@
-{% include_relative "../chi_muc.md" %}
+{% include_relative chi_muc.md %}
