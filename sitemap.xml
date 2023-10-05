@@ -31,11 +31,6 @@
 		<lastmod>2023-05-06</lastmod>
 	</url>
 	<url>
-		<loc>https://hopan.vn/gtag.html</loc>
-		<priority>0.75</priority>
-		<lastmod>2023-05-06</lastmod>
-	</url>
-	<url>
 		<loc>https://hopan.vn/noi_dung_chinh.html</loc>
 		<priority>0.75</priority>
 		<lastmod>2023-05-06</lastmod>
@@ -59,6 +54,11 @@
 		<loc>https://hopan.vn/test_md.html</loc>
 		<priority>0.75</priority>
 		<lastmod>2023-05-06</lastmod>
+	</url>
+	<url>
+		<loc>https://hopan.vn/_includes/gtag.html</loc>
+		<priority>0.75</priority>
+		<lastmod>2023-10-05</lastmod>
 	</url>
 	<url>
 		<loc>https://hopan.vn/khai_niem_so/tu_vo_luong_tam.html</loc>
@@ -453,7 +453,7 @@
 	<url>
 		<loc>https://hopan.vn/_layouts/default.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-09-22</lastmod>
+		<lastmod>2023-10-05</lastmod>
 	</url>
 	<url>
 		<loc>https://hopan.vn/thien_hang_ngay/thien_lai_xe.html</loc>
@@ -474,6 +474,11 @@
 		<loc>https://hopan.vn/khai_niem_so/tam_thua.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2023-10-03</lastmod>
+	</url>
+	<url>
+		<loc>https://hopan.vn/_includes/breachcums.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-10-05</lastmod>
 	</url>
 	<url>
 		<loc>https://hopan.vn/sach/thien_hanh_yeu_chi/thien_hanh_yeu_chi.html</loc>
