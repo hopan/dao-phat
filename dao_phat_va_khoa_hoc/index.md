@@ -56,3 +56,4 @@ Khoa học và đạo Phật không đối lập mà bổ túc cho nhau. Khoa h�
 - [Vật lý lượng tử và duyên khởi](vat_ly_luong_tu_va_duyen_khoi.md)
 - [Tầng thiền định và đa chiều luận](thien_dinh_va_da_chieu.md)
 - [Trường ý thức phổ quát](truong_y_thuc_pho_quat.md)
+- [Thuyết toàn ảnh và gợi ý từ đạo Phật](thuyet_toan_anh_va_phat_giao.md)

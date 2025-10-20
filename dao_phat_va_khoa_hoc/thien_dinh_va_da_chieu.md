@@ -38,6 +38,7 @@ Trong quá trình tu tập, hành giả buông bỏ dần các thô động củ
 - Thiền định có mục tiêu giải thoát khổ đau; lý thuyết dây nhằm thống nhất các lực cơ bản. Khi so sánh cần nhấn mạnh mục đích khác nhau.
 - Tránh sử dụng thuật ngữ vật lý để làm bằng chứng cho tu chứng – điều đó làm hại cả hai lĩnh vực.
 
+
 ### Bảng ẩn dụ: 10 chiều và 10 tầng thiền
 
 > *Lưu ý: đây chỉ là phép so sánh gợi ý để hình dung, không phải sự tương ứng thực nghiệm.*
