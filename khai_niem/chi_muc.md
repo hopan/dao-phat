@@ -7,17 +7,17 @@ Tham khảo:
 
 ## A
 
-- A-đề-sa
-- A-hàm
-- A-la-hán
-- A-lại-da thức
-- [A-tăng-kỳ](khai_niem/a_tang_ky.md)
-- A-tì-đạt-ma
-- A-tì-đạt-ma-câu-xá luận
-- A-xà-lê
-- Ái (Phật giáo)
-- Ảo ảnh (Phật giáo)
-- Ấn khả chứng minh
+- [A-đề-sa](a_de_sa.md)
+- [A-hàm](a_ham.md)
+- [A-la-hán](a_la_han.md)
+- [A-lại-da thức](a_lai_da_thuc.md)
+- [A-tăng-kỳ](a_tang_ky.md)
+- [A-tì-đạt-ma](a_ti_dat_ma.md)
+- [A-tì-đạt-ma-câu-xá luận](a_ti_dat_ma_cau_xa_luan.md)
+- [A-xà-lê](a_xa_le.md)
+- [Ái (Phật giáo)](ai_phat_giao.md)
+- [Ảo ảnh (Phật giáo)](ao_anh_phat_giao.md)
+- [Ấn khả chứng minh](an_kha_chung_minh.md)
 
 ## B
 
@@ -248,6 +248,7 @@ Tham khảo:
 - Thiền trong Phật giáo
 - Thiên vương
 - Thong dong lục
+- [Thời gian](thoi_gian.md)
 - Thời tông
 - Thủ (Phật giáo)
 - Thủ-lăng-nghiêm-tam-muội kinh

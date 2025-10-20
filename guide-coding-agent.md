@@ -31,7 +31,11 @@ Nếu đang ở đoạn khởi động của phiên chat mới bạn cần thự
 ## 5. Định dạng của 1 file nội dung khái niệm số trong dự án
 - Tham khảo nội dung của file khai_niem_so\bat_chinh_dao.md
 - Một file cần có các mục sau:
-  - Mục lục tự động
+  - Mục lục tự động dùng TOC {:toc}
   - Tài liệu tham khảo
   - Mô tả khái quát khái niệm, các số thành phần theo dạng listing đánh số (Ví dụ: bát chánh đạo bao gồm: 1. Chánh kiến; 2. Chánh tư duy,...)
   - Mô tả nội dung chi tiết, mỗi số thành phần sẽ bao gồm 1 mục con riêng mô tả chi tiết (Ví dụ Chánh kiến là 1 phần, chánh thư duy là 1 phần,...)
+
+- Định dạng title của 1 page thì theo tempalte header """---
+title: <title của trang>
+---"""
