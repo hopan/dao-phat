@@ -1,4 +1,6 @@
+﻿---
 title: Trường Ý Thức Phổ Quát
+---
 
 ## Khái niệm trong Phật giáo
 

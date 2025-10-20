@@ -1,4 +1,4 @@
----
+﻿---
 title: Thuyết Toàn Ảnh và Gợi Ý Từ Đạo Phật
 ---
 

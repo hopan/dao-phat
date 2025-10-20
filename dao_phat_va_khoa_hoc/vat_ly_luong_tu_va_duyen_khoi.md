@@ -1,4 +1,6 @@
+﻿---
 title: Vật Lý Lượng Tử và Duyên Khởi
+---
 
 ## Khởi điểm chung: tính tương thuộc
 
