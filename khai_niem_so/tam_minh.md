@@ -8,29 +8,67 @@
 Tham khảo:
 
 - <https://vi.wikipedia.org/wiki/Tam_minh>
+- Kinh Trường Bộ, kinh “Đại Bát Niết-bàn”.
+- Thanh tịnh đạo luận, chương XIII.
+- Thích Trí Quang, *Phật học phổ thông*, khóa IX.
 
-Là Thánh trí siêu việt của Đức Phật và các vị đã chứng được Thánh quả A La Hán ([Tứ thánh quả](tu_thanh_qua.md#A-La-Hán)). Khi đó vị ấy nhập vào Tứ thiền bắt buộc phải trải qua kinh nghiệm tam minh.
+Tam minh (trividyā) là ba tri kiến siêu việt mà Đức Phật chứng đắc trong đêm thành đạo: túc mạng minh, thiên nhãn minh và lậu tận minh. Đây là đỉnh cao của trí tuệ giải thoát, đồng thời là kim chỉ nam cho hành giả trên đường tu.
 
-Tam minh thường xuất hiện kèm với [Lục thông](luc_thong.md).
+## 1. Túc mạng minh (pubbenivāsānussati-ñāṇa)
 
-## 1. Túc mạng minh
+### 1.1. Nội dung
 
-Đây là một loại Thần thông của Đức Phật và các Vị A-la-hán. Vị này thấy rõ những đời sống quá khứ của mình. Là ai, tên gì, sinh trong gia đình nào, khi sống đã tạo những hạnh nghiệp gì, và mất ở đâu,...v.v Và vị ấy thấy rõ đầu mối của luân hồi. Tới đây Vị ấy thành tựu Túc Mạng Minh.
+1. Nhớ rõ vô lượng đời sống quá khứ của chính mình.
+2. Thấy rõ hoàn cảnh sinh ra, nghề nghiệp, hành động, cảm thọ trong từng kiếp.
+3. Hiểu mối liên hệ nhân quả giữa nghiệp đã tạo và hoàn cảnh hiện tại.
 
-## 2. Thiên nhãn minh
+### 1.2. Ý nghĩa thực hành
 
-Đây là một loại Thần thông của Đức Phật và các Vị A-la-hán. Vị này thấy rõ các đời sống quá khứ của tất cả chúng sinh trong Lục Đạo Luân Hồi, Vị ấy thấy rõ nguyên nhân vì sao chúng sinh bị trôi lăn trong vòng Luân Hồi Sinh Tử vô tận là do hạnh nghiệp gì. Khi vị này chứng được Thiên Nhãn Minh thì lần lượt 3 Thần Thông sau cũng được thành tựu đó là:
+- Giúp đoạn trừ hoài nghi về luật nhân quả, về tính liên tục của đời sống.
+- Khơi dậy tâm hổ thẹn, tinh tấn – bởi hiểu rõ kết quả của mỗi hành động.
+- Dẫn đến lòng bao dung: biết rằng ai cũng từng lầm lỗi trong vô số kiếp.
 
-- Thiên Nhĩ Thông
-- Tha Tâm Thông
-- Thần Túc Thông
+### 1.3. Ứng dụng hiện nay
 
-## 3. Lậu tận minh
+- Người tu quán niệm về quá khứ để nhận ra các tập khí, thói quen sâu dày.
+- Thực tập “nhật ký nghiệp”: ghi lại hành vi, cảm xúc hằng ngày để thấy chuỗi nhân duyên.
 
-Đây không phải là Thần Thông mà là một Minh Triết cuối cùng được rút ra khi vị ấy đã trải nghiệm qua Túc Mạng Minh và Thiên Nhãn Minh:
+## 2. Thiên nhãn minh (cutūpapāta-ñāṇa)
 
-- Vị ấy thấy rõ dẫu chúng sinh có sinh về bất kỳ nơi đâu trong Pháp Giới Vũ Trụ này, thậm chí sinh về các cõi Trời rất cao vi diệu thì vẫn chỉ là chúng sinh đau khổ và tận cùng của đau khổ là Địa Ngục ít dần cho đến các tầng Trời.
-- Vị này thấy rõ nguyên nhân của đau khổ là vì chúng sinh Vô Minh chấp Ngã dẫn đến tham ái.
-- Vị ấy thấy rõ Niết Bàn là nơi chấm dứt mọi luân hồi sinh diệt hoàn toàn không còn đau khổ.
-- Vị ấy thấy rõ con đường Bát Chánh Đạo là con đường duy nhất đưa đến được Niết Bàn tịch tĩnh, phá trừ được Vô Minh, đạt được Vô Ngã hoàn toàn.
-- Vị ấy rút ra được Tứ Diệu Đế chính là chân lý tuyệt đối của Pháp Giới Vũ Trụ này. Tới đây vị ấy viên mãn và hoàn toàn giải thoát.
+### 2.1. Nội dung
+
+1. Thấy rõ sự sinh diệt của chúng sinh trong sáu nẻo: trời, người, a-tu-la, súc sinh, ngạ quỷ, địa ngục.
+2. Biết rõ nguyên nhân khiến họ sinh về cảnh giới tốt hoặc rơi vào cảnh khổ.
+3. Nhận ra tác động của nghiệp thiện – ác một cách khách quan, không giới hạn bởi thời gian – không gian.
+
+### 2.2. Ý nghĩa thực hành
+
+- Tăng trưởng lòng từ bi rộng lớn, vì thấy rõ khổ đau của muôn loài.
+- Giúp hành giả ý thức sâu sắc về tầm quan trọng của việc tích lũy công đức.
+- Cảnh tỉnh người tu khỏi thái độ chủ quan, coi nhẹ nghiệp quả.
+
+### 2.3. Ứng dụng hiện nay
+
+- Quán sát đời sống xung quanh: các cảnh khổ chiến tranh, bệnh tật, thiên tai.
+- Tham gia thiện nguyện, bảo vệ môi trường – chuyển lòng thương thành hành động cụ thể.
+
+## 3. Lậu tận minh (āsavakkhaya-ñāṇa)
+
+### 3.1. Nội dung
+
+1. Thấy rõ và đoạn trừ hoàn toàn các lậu hoặc (dục lậu, hữu lậu, vô minh lậu).
+2. Chứng nghiệm Niết-bàn: chấm dứt chuỗi sinh tử, đạt tự do tuyệt đối.
+3. Xác lập trí tuệ viên mãn – căn bản của Phật quả.
+
+### 3.2. Ý nghĩa thực hành
+
+- Là mục tiêu cuối cùng của con đường Bát chánh đạo.
+- Khẳng định rằng mọi chúng sinh đều có khả năng giác ngộ nếu tu tập đúng pháp.
+- Giúp hành giả sống an nhiên, không còn bị ràng buộc bởi tham muốn hay sợ hãi.
+
+### 3.3. Ứng dụng hiện nay
+
+- Kiên trì thực hành Giới – Định – Tuệ; kết hợp thiền định và thiền quán.
+- Duy trì đời sống tỉnh thức, biết dừng lại trước tham vọng vật chất, quyền lực.
+
+Tam minh không chỉ là thành tựu của Đức Phật mà còn là cột mốc cho mọi hành giả. Dù chưa chứng đắc trọn vẹn, chúng ta có thể học theo bằng cách nhìn sâu vào quá khứ, hiểu rõ nhân quả, mở rộng từ bi và nuôi dưỡng trí tuệ mỗi ngày.
