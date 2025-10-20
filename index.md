@@ -7,3 +7,4 @@ title: Đạo phật - hopan.vn
 - [Các chỉ mục](khai_niem/chi_muc.md)
 - [Các chỉ mục gắn với số](khai_niem_so/khai_niem_so.md)
 - [Thiền trong hoạt động hàng ngày](thien_hang_ngay/danh_muc_thien.md)
+- [Đạo phật và khoa học](dao_phat_va_khoa_hoc/index.md)
