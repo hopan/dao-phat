@@ -99,37 +99,37 @@ Tham khảo:
 - [Động vật trong Phật giáo](dong_vat_trong_phat_giao.md)
 ## G
 
-- Giác ngộ
-- Giải thâm mật kinh
-- Giới (Phật giáo)
+- [Giác ngộ](giac_ngo.md)
+- [Giải thâm mật kinh](giai_tham_mat_kinh.md)
+- [Giới (Phật giáo)](gioi_phat_giao.md)
 
 ## H
 
-- Hành (tôn giáo)
-- Hát (Phật giáo)
-- Hoa Nghiêm tông
-- Hóa pháp tứ giáo
-- Hóa thân (Phật giáo)
-- Hòa thượng
-- Hoàng Bá tông
-- Hoàng Long phái
-- Hộ Pháp
-- Hữu luân
+- [Hành (tôn giáo)](hanh_phat_giao.md)
+- [Hát (Phật giáo)](hat_phat_giao.md)
+- [Hoa Nghiêm tông](hoa_nghiem_tong.md)
+- [Hóa pháp tứ giáo](hoa_phap_tu_giao.md)
+- [Hóa thân (Phật giáo)](hoa_than_phat_giao.md)
+- [Hòa thượng](hoa_thuong.md)
+- [Hoàng Bá tông](hoang_ba_tong.md)
+- [Hoàng Long phái](hoang_long_phai.md)
+- [Hộ Pháp](ho_phap.md)
+- [Hữu luân](huu_luan.md)
 
 ## K
 
-- Khổ (Phật giáo)
-- Không hành nữ
-- Không hoa
-- Không hữu
-- Kiến (Phật giáo)
-- Kiến tính
-- Kinh Diệu Pháp Liên Hoa
-- Kinh Đại Bát Niết Bàn
-- Kinh Kim Cương
-- Kinh lượng bộ
-- Kinh Phật
-- Kinh tế học Phật giáo
+- [Khổ (Phật giáo)](kho_phat_giao.md)
+- [Không hành nữ](khong_hanh_nu.md)
+- [Không hoa](khong_hoa.md)
+- [Không hữu](khong_huu.md)
+- [Kiến (Phật giáo)](kien_phat_giao.md)
+- [Kiến tính](kien_tinh.md)
+- [Kinh Diệu Pháp Liên Hoa](kinh_dieu_phap_lien_hoa.md)
+- [Kinh Đại Bát Niết Bàn](kinh_dai_bat_niet_ban.md)
+- [Kinh Kim Cương](kinh_kim_cuong.md)
+- [Kinh lượng bộ](kinh_luong_bo.md)
+- [Kinh Phật](kinh_phat.md)
+- [Kinh tế học Phật giáo](kinh_te_hoc_phat_giao.md)
 
 ## L
 
