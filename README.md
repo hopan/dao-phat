@@ -1,4 +1,4 @@
-# Đạo Phật
+﻿# Đạo Phật
 
 Dự án tổng hợp các tài liệu Phật học để mọi người dễ dàng tiếp cận, đưa Đạo Phật đến gần tất cả mọi người. Mong mọi người an vui, hạnh phúc.
 
