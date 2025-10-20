@@ -10,3 +10,5 @@
   title: <tiêu đề trang>
   ---
   ```
+
+- Đã có title rồi thì không dùng h1 nữa

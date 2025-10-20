@@ -57,19 +57,18 @@ Tham khảo:
 
 ## C
 
-- Các thuật ngữ và khái niệm Phật giáo
-- Cách-lỗ phái
-- Cận tử nghiệp
-- Câu-xá tông
-- Chánh niệm
-- Chân ngôn
-- Chân như
-- Chỉ (Phật giáo)
-- Chủng tử
-- Chủng tử lục nghĩa
-- Chứng đạo ca
-- Công án
-- Cực lạc
+- [Cách-lỗ phái](cach_lo_phai.md)
+- [Cận tử nghiệp](can_tu_nghiep.md)
+- [Câu-xá tông](cau_xa_tong.md)
+- [Chánh niệm](chanh_niem.md)
+- [Chân ngôn](chan_ngon.md)
+- [Chân như](chan_nhu.md)
+- [Chỉ (Phật giáo)](chi_phat_giao.md)
+- [Chủng tử](chung_tu.md)
+- [Chủng tử lục nghĩa](chung_tu_luc_nghia.md)
+- [Chứng đạo ca](chung_dao_ca.md)
+- [Công án](cong_an.md)
+- [Cực lạc](cuc_lac.md)
 
 ## D
 
