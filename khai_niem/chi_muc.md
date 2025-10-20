@@ -72,32 +72,31 @@ Tham khảo:
 
 ## D
 
-- Drikung Kagyu
-- Duy thức
-- Duy thức tam thập tụng
-- Duy thức tông
-- Duyên khởi
-- Dương Kì phái
-- Đa Văn thiên vương
-- Đại chúng bộ
-- Đại cứu cánh
-- Đại nghi đoàn
-- Đại phấn chí
-- Đại thành tựu
-- Đại thủ ấn
-- Đại thừa
-- Đại thừa khởi tín luận
-- Đại tín căn
-- Đạo quả luận
-- Đạo sư
-- Đát-đặc-la
-- Đầu thai
-- Địa Tạng
-- Điển tọa
-- Độc tham
-- Động Sơn ngũ vị
-- Động vật trong Phật giáo
-
+- [Drikung Kagyu](drikung_kagyu.md)
+- [Duy thức](duy_thuc.md)
+- [Duy thức tam thập tụng](duy_thuc_tam_thap_tung.md)
+- [Duy thức tông](duy_thuc_tong.md)
+- [Duyên khởi](duyen_khoi.md)
+- [Dương Kỳ phái](duong_ky_phai.md)
+- [Đa Văn thiên vương](da_van_thien_vuong.md)
+- [Đại chúng bộ](dai_chung_bo.md)
+- [Đại cứu cánh](dai_cuu_canh.md)
+- [Đại nghi đoàn](dai_nghi_doan.md)
+- [Đại phấn chí](dai_phan_chi.md)
+- [Đại thành tựu](dai_thanh_tuu.md)
+- [Đại thủ ấn](dai_thu_an.md)
+- [Đại thừa](dai_thua.md)
+- [Đại thừa khởi tín luận](dai_thua_khoi_tin_luan.md)
+- [Đại tín căn](dai_tin_can.md)
+- [Đạo quả luận](dao_qua_luan.md)
+- [Đạo sư](dao_su.md)
+- [Đát-đặc-la](dat_dac_la.md)
+- [Đầu thai](dau_thai.md)
+- [Địa Tạng](dia_tang.md)
+- [Điển tọa](dien_toa.md)
+- [Độc tham](doc_tham.md)
+- [Động Sơn ngũ vị](dong_son_ngu_vi.md)
+- [Động vật trong Phật giáo](dong_vat_trong_phat_giao.md)
 ## G
 
 - Giác ngộ
