@@ -37,6 +37,9 @@ Xử lý các vấn đề chính:
 1. Xuất bản lên mobile
 1. Bổ sung tính năng tìm kiếm trên web
 
+## Hướng dẫn cho code agent
+Nếu bạn là AI code agent thì bạn cần đọc hướng dẫn trong file guide-coding-agent.md
+
 ## Những người đóng góp cho dự án
 
 Rất mong mọi người cùng tham gia đóng góp để cập nhật tri thức về Đạo Phật
