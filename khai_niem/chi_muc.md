@@ -1,4 +1,6 @@
-# Chỉ mục
+---
+title: Chỉ mục
+---
 
 Tham khảo:
 
