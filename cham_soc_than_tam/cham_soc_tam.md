@@ -72,3 +72,11 @@ Trang này phác họa các thao tác cơ bản để chăm sóc “chiếc gư�
 ## Kết nối thân – tâm
 
 Chiếc gương tâm phản chiếu rõ nhất khi “cây thân thể” khỏe mạnh. Khi thân được chăm sóc đúng cách, hơi thở đều, hệ thần kinh ổn định, ta dễ lau bụi cho gương và nhìn thấy sự thật. Và ngược lại, khi tâm sáng, ta thêm động lực chăm sóc thân, tạo vòng tròn nuôi dưỡng lẫn nhau.
+
+## Nguyên lý nền tảng
+
+Đằng sau mỗi thực hành là những cơ chế khoa học và mô hình nhận thức giúp lý giải vì sao chúng có tác dụng.
+
+- [Toàn thể trường ý thức](cham_soc_tam_nguyen_ly.md) – Tổng hợp các góc nhìn: ý thức tập thể (Jung), trường thông tin lượng tử (Bohm, Penrose & Hameroff), luật hấp dẫn (psychology of expectation), bộ lọc ý thức (Global Workspace Theory). Người đọc sẽ thấy sự giao thoa giữa thần kinh học, tâm lý học tích cực và các giả thuyết về trường thông tin.
+  - **Từ góc nhìn thân:** Hệ thần kinh và nội tiết phản ứng trước kỳ vọng, niềm tin và môi trường cảm xúc chung.
+  - **Từ góc nhìn tâm:** Ý nghĩ và cảm xúc định hướng “bộ lọc” nhận thức, quyết định cách ta diễn giải thế giới.
