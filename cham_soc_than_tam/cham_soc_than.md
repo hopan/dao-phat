@@ -29,6 +29,7 @@ Trong loạt bài “Chăm sóc thân” bạn sẽ tìm thấy bằng chứng k
 - [Giấc ngủ và thức dậy](cham_soc_than_giac_ngu.md) – củng cố nhịp sinh học, phục hồi cơ thể.
 - [Dinh dưỡng và bổ sung](cham_soc_than_dinh_duong.md) – cung cấp “đất” nuôi cây từ bên trong.
 - [Hoocmon và nguyên lý nền tảng](cham_soc_than_hormone.md) – giải thích cách mỗi bước tác động lên hệ thần kinh – nội tiết.
+- [Nguyên lý khoa học](cham_soc_than_nguyen_ly.md) – tổng hợp cơ chế tiến hóa, sinh lý và di truyền đứng sau từng thực hành.
 
 ## Hướng dẫn tổng hợp từng yếu tố
 
