@@ -24,6 +24,9 @@ title: Điều chỉnh ánh sáng thông tin
 3. **Nghi thức reset sau khi online**
    - Dành 2 phút hít thở chậm hoặc đi lại sau mỗi phiên trực tuyến dài.
    - Viết một câu ghi nhận điều tích cực hoặc thông tin hữu ích nhất vừa tiếp nhận.
+4. **Ngày không tin tức**
+    - Chọn ít nhất 1 ngày/tuần không đọc báo, mạng xã hội; thay bằng sách giấy, âm nhạc, vẽ hoặc vận động nhẹ.
+    - Tạo danh sách “nguồn tin đáng tin” và chỉ xem khi thực sự cần thiết.
 
 ## Cách theo dõi tiến triển
 
@@ -35,6 +38,7 @@ title: Điều chỉnh ánh sáng thông tin
 - Không cần loại bỏ hoàn toàn mạng xã hội; thay vào đó tập trung vào việc chủ động lựa chọn nội dung.
 - Nếu công việc buộc phải trực tuyến liên tục, ưu tiên tạo các khoảng nghỉ ngắn 5 phút để nhìn ra xa, vươn vai và uống nước.
 - Khi cảm thấy quá tải hoặc có triệu chứng lo âu, giảm tốc độ bằng cách đọc/tổng hợp lại trên giấy thay vì tiếp tục lướt.
+- Nếu cần cập nhật tin tức, gom vào “thời gian vàng” 10–15 phút và ghi lại cảm xúc sau khi đọc để điều chỉnh nguồn.
 
 ## Tài liệu tham khảo
 

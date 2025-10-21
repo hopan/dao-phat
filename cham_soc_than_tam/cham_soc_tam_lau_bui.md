@@ -25,11 +25,15 @@ title: Lau bụi tâm hằng ngày
 3. **Bản ghi 3 khoảnh khắc sáng**
    - Cuối ngày, viết xuống ba điều bạn ghi nhận được trong ngày (một cảm xúc, một hành động, một chi tiết nhỏ).
    - Đọc lại vào cuối tuần để thấy sự thay đổi.
+4. **Xuất thông tin khỏi đầu**
+   - Ghi nhật ký tự do 5–10 phút (“brain dump”), ghi ra mọi suy nghĩ đang quẩn quanh.
+   - Khi áp lực công việc cao, dùng danh sách “INBOX” ghi việc cần xử lý rồi lên kế hoạch vào sáng hôm sau.
 
 ## Cách theo dõi tiến triển
 
 - Đặt đồng hồ nhắc 2–3 lần trong ngày để tự hỏi “Tôi đang cảm nhận gì ở cơ thể?” và ghi lại trên ứng dụng ghi chú.
 - Mỗi tuần rà soát bảng ghi khoảnh khắc sáng, đánh dấu biểu tượng 😊 khi cảm xúc tích cực xuất hiện nhiều hơn so với tuần trước.
+- Đếm số lần viết nhật ký/brain dump, đánh dấu những ngày bạn thấy “đầu nhẹ hơn” sau khi viết.
 
 ## Lưu ý khi áp dụng
 

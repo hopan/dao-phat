@@ -24,11 +24,15 @@ title: Soi gương bằng yêu thương
 3. **Hành động tử tế ngẫu nhiên**
    - Mỗi ngày chọn một hành động nhỏ: gửi lời cảm ơn, hỗ trợ ai đó, chia sẻ kiến thức.
    - Ghi lại tác động bạn quan sát được (nụ cười, thư cảm ơn, sự nhẹ nhõm).
+4. **Vẽ cảm xúc**
+   - Dành 10 phút để vẽ hoặc doodle những hình khối, màu sắc đại diện cảm xúc trong ngày.
+   - Không cần đẹp; mục tiêu là thể hiện cảm xúc ra ngoài thay vì giữ trong đầu.
 
 ## Cách theo dõi tiến triển
 
 - Tạo bảng “Từ bi với bản thân” gồm các cột: Tình huống, Cảm xúc, Câu nói hỗ trợ, Điều sẽ làm kế tiếp.
 - Đánh dấu sao ★ cho những ngày bạn thực hiện đủ cả ba hoạt động (biết ơn, tự động viên, hành động tử tế).
+- Với “vẽ cảm xúc”, lưu lại hoặc chụp ảnh; sau 1 tháng quan sát màu sắc nào xuất hiện nhiều nhất để nhận diện xu hướng tâm trạng.
 
 ## Lưu ý khi áp dụng
 
