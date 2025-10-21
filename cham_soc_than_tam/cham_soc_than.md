@@ -1,9 +1,4 @@
 ﻿---
-- [Dopamine – khai thác động lực bền vững](cham_soc_than_dopamine.md) – hướng dẫn cụ thể về dopamine
-- [Dopamine – khai thác động lực bền vững](cham_soc_than_dopamine.md) – hướng dẫn cụ thể về dopamine
-
-- [Dopamine – khai thác động lực bền vững](cham_soc_than_dopamine.md) – hướng dẫn cụ thể về dopamine
----
 title: Chăm sóc thân
 ---
 

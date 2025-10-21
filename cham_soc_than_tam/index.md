@@ -8,6 +8,7 @@ Con người giống như một hệ thống đồng bộ giữa phần “phầ
 
 - [Chăm sóc thân](cham_soc_than.md) – Các yếu tố nền tảng giúp cơ thể khỏe, giấc ngủ sâu, năng lượng ổn định.
 - [Chăm sóc tâm](cham_soc_tam.md) – Bộ công cụ soi chiếu, điều hòa và nuôi dưỡng đời sống tinh thần.
+- [Liên hệ thân – tâm](cham_soc_than_tam_lien_he.md) – Cơ chế khoa học, triết học và Phật học nói về sự tương tức.
 
 ## Hướng dẫn khởi đầu cho người mới
 
