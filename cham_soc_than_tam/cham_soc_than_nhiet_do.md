@@ -16,8 +16,8 @@ title: Điều hòa nhiệt độ
 ## Hướng dẫn thực hành
 
 1. **Theo dõi môi trường**
-   - Dùng nhiệt kế phòng; điều chỉnh nhiệt độ điều hòa từ 24–27°C ban ngày, 18–24°C ban đêm tùy khí hậu.
-   - Giữ độ ẩm 40–60% để tránh khô da và niêm mạc.
+   - Dùng nhiệt kế phòng; điều chỉnh quạt, điều hòa hoặc mở cửa sổ dựa trên cảm giác cơ thể, tránh chênh lệch quá lớn so với ngoài trời.
+   - Giữ độ ẩm trong khoảng thoải mái (40-60%) bằng chậu nước, cây xanh hoặc máy tạo ẩm khi cần.
 2. **Trang phục hợp lý**
    - Chọn nhiều lớp áo để dễ điều chỉnh khi nhiệt độ đổi.
    - Ưu tiên chất liệu thoáng (cotton, linen) mùa nóng, giữ ấm vùng cổ, bàn chân mùa lạnh.
