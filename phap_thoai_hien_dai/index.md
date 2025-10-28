@@ -1,4 +1,4 @@
----
+﻿---
 title: Pháp thoại hiện đại
 ---
 
@@ -16,3 +16,13 @@ Những pháp thoại này được soạn cho bối cảnh đương đại, nh�
 - [Kinh tế tỉnh thức](kinh_te_tinh_thuc.md)
 - [Nông nghiệp chánh niệm](nong_nghiep_chanh_niem.md)
 - [Thanh thiếu niên tỉnh thức](thanh_thieu_nien_tinh_thuc.md)
+- [Thiền trong thời đại làm việc từ xa](thien_trong_thoi_dai_lam_viec_tu_xa.md)
+- [Phật giáo và sức khỏe tâm thần cộng đồng](suc_khoe_tam_than_cong_dong.md)
+- [Chăm sóc cha mẹ già bằng chánh niệm](cham_soc_cha_me_gia_chanh_niem.md)
+- [Bình đẳng giới và tuệ giác từ bi](binh_dang_gioi_va_tu_bi.md)
+- [Sống tối giản tỉnh thức](song_toi_gian_tinh_thuc.md)
+- [Từ thiện số và tinh thần tỉnh thức](tu_thien_so_tinh_thuc.md)
+- [Kết nối đa văn hóa trong tinh thần tỉnh thức](ket_noi_da_van_hoa.md)
+- [Cha mẹ tỉnh thức nuôi dạy con trong thời đại số](cha_me_tinh_thuc_nuoi_day_con.md)
+- [Nghệ thuật và năng lượng chữa lành](nghe_thuat_chua_lanh.md)
+- [Khởi nghiệp xã hội với chánh niệm](khoi_nghiep_xa_hoi_chanh_niem.md)
