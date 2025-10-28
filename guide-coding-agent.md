@@ -35,7 +35,10 @@ Nếu đang ở đoạn khởi động của phiên chat mới bạn cần thự
   - Tài liệu tham khảo
   - Mô tả khái quát khái niệm, các số thành phần theo dạng listing đánh số (Ví dụ: bát chánh đạo bao gồm: 1. Chánh kiến; 2. Chánh tư duy,...)
   - Mô tả nội dung chi tiết, mỗi số thành phần sẽ bao gồm 1 mục con riêng mô tả chi tiết (Ví dụ Chánh kiến là 1 phần, chánh thư duy là 1 phần,...)
+  - Có mục tham chiếu, link sang các chủ đề liên quan ở cuối page
 
+## 6. Định dạng chung các page
 - Định dạng title của 1 page thì theo tempalte header """---
 title: <title của trang>
 ---"""
+- Có mục tham chiếu, link sang các chủ đề liên quan ở cuối page

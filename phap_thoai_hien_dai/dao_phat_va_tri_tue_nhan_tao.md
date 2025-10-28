@@ -10,7 +10,7 @@ title: Đạo Phật và trí tuệ nhân tạo
 ## Thông điệp mở đầu
 
 "Máy móc có thể học nhanh, nhưng chỉ trái tim tỉnh thức mới định hướng được chúng. Ai tạo ra công nghệ cũng phải gieo vào đó hạt giống từ bi."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -61,5 +61,11 @@ title: Đạo Phật và trí tuệ nhân tạo
 1. Bắt đầu ca làm bằng 5 phút thiền, quán niệm hơi thở.
 2. Trước khi triển khai tính năng, tự hỏi: “Điều này giảm khổ hay thêm khổ?”
 3. Sau giờ làm, ghi lại một học hỏi đạo đức và một cam kết cải thiện.
+
+## Xem thêm
+
+- [Chánh niệm](../khai_niem/chanh_niem.md): nền tảng để người làm công nghệ giữ tâm trong sáng giữa nhịp làm việc nhanh.
+- [Pháp thoại: Giới kỹ thuật số](gioi_ky_thuat_so.md): mở rộng giới luật vào môi trường trực tuyến, tránh gây hại qua sản phẩm số.
+- [Pháp thoại: Chánh mạng](chanh_mang.md): đặt câu hỏi đạo đức về nghề nghiệp và chuỗi giá trị nơi AI được ứng dụng.
 
 > AI không phải kẻ thù; thiếu tâm bồ-đề mới là mối nguy. Hãy đưa tuệ giác và từ bi vào từng dòng mã để công nghệ trở thành con đường phụng sự.

@@ -10,7 +10,7 @@ title: Nông nghiệp chánh niệm
 ## Thông điệp mở đầu
 
 "Hạt giống vào đất cũng như chánh niệm vào tâm. Ai trồng bằng tình thương sẽ gặt mùa vàng nuôi sống cả thế gian."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -61,5 +61,11 @@ title: Nông nghiệp chánh niệm
 1. Sáng: chạm tay xuống đất, phát nguyện “nuôi đất như nuôi chính mình”.
 2. Trong ngày: dừng lại nghe tiếng chim, gió, cảm nhận sự sống quanh mình.
 3. Tối: hồi hướng các mùa vụ cho những người thiếu thực phẩm, chia sẻ nông sản dư thừa.
+
+## Xem thêm
+
+- [Tương tức](../khai_niem/tuong_tuc.md): nhìn sâu vào mạng lưới phụ thuộc giữa đất, nước, khí hậu và con người.
+- [Pháp thoại: Chuyển hóa lo âu khí hậu](chuyen_hoa_lo_au_khi_hau.md): chuyển nỗi lo môi trường thành hành động nuôi dưỡng hành tinh.
+- [Chăm sóc thân - tâm: Dinh dưỡng](../cham_soc_than_tam/cham_soc_than_dinh_duong.md): gợi ý sử dụng nông sản lành mạnh cho sức khỏe thân tâm.
 
 > Khi người nông dân gieo trồng bằng chánh niệm, từng bữa cơm của nhân loại trở thành lễ hội tri ân đất mẹ.

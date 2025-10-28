@@ -10,7 +10,7 @@ title: Giới kỹ thuật số
 ## Thông điệp mở đầu
 
 "Trong thời đại mạng, mỗi cú chạm màn hình cũng là một nghiệp. Hãy giữ giới với công nghệ như giữ lửa trong đêm lạnh."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -62,5 +62,11 @@ title: Giới kỹ thuật số
 1. Sáng: kiểm tra thiết bị sau khi đã thiền 10 phút và ăn sáng trong chánh niệm.
 2. Trong ngày: dùng chuông nhắc dừng lại, thư giãn mắt, thở sâu mỗi giờ.
 3. Tối: ghi nhận nội dung đã tiêu thụ, cầu nguyện cho những người đang nghiện mạng tìm lại sự thảnh thơi.
+
+## Xem thêm
+
+- [Chánh niệm](../khai_niem/chanh_niem.md): nền tảng giúp sử dụng thiết bị số mà không bị cuốn đi bởi cảm xúc.
+- [Pháp thoại: Đạo Phật và trí tuệ nhân tạo](dao_phat_va_tri_tue_nhan_tao.md): mở rộng góc nhìn đạo đức khi phát triển sản phẩm thông minh.
+- [Pháp thoại: Thanh thiếu niên tỉnh thức](thanh_thieu_nien_tinh_thuc.md): đồng hành với giới trẻ trong việc thiết lập thói quen số lành mạnh.
 
 > Công nghệ là công cụ; khi giữ giới kỹ thuật số, ta biến công nghệ thành cánh tay nối dài của từ bi và trí tuệ.

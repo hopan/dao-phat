@@ -54,4 +54,12 @@ title: Bồ-đề tâm
 2. **Giữa ngày**: thực tập 5 phút quán chiếu về một người đang khó khăn, gửi tới họ lời cầu chúc an lành, kèm một hành động hỗ trợ cụ thể nếu có thể thực hiện.
 3. **Cuối ngày**: rà soát việc đã làm, nhận diện thời điểm lạc hướng khỏi bồ-đề tâm, sám hối và phát nguyện làm tốt hơn ngày mai.
 
+## Xem thêm
+
+- [Từ bi](tu_bi.md): bồi dưỡng nền tảng cảm thông để bồ-đề tâm lớn mạnh và bền vững.
+- [Giác ngộ](giac_ngo.md): hiểu mục tiêu tối hậu mà bồ-đề tâm hướng tới.
+- [Đại thừa](dai_thua.md): bối cảnh giáo lý giúp bồ-đề tâm trở thành động lực của hạnh Bồ-tát.
+- [Pháp thoại: Công bằng xã hội](../phap_thoai_hien_dai/cong_bang_xa_hoi.md): Ứng dụng bồ-đề tâm trong hành động cộng đồng đương đại.
+
+
 > Bồ-đề tâm không phải lý tưởng xa vời mà là năng lượng tỉnh thức và từ bi có thể được kích hoạt ngay trong các lựa chọn nhỏ. Khi mỗi người nuôi dưỡng bồ-đề tâm, cộng đồng nhân loại có thêm nền tảng để tiến tới hòa bình và thịnh vượng bền vững.

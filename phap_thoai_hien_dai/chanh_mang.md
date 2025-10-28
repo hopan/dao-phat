@@ -10,7 +10,7 @@ title: Chánh mạng
 ## Thông điệp mở đầu
 
 "Này các đệ tử, nuôi thân bằng nghề chính trực là gieo hạt an lạc cho muôn loài. Lợi ích chân thật không bao giờ mâu thuẫn với lòng từ bi."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -61,5 +61,11 @@ title: Chánh mạng
 1. Sáng: quán nguyện “nghề nghiệp hôm nay nuôi lớn hiểu biết và lòng từ bi”.
 2. Giữa ngày: dừng ba hơi thở trước quyết định tài chính lớn, xét lại tác động của nó.
 3. Cuối ngày: ghi nhận một hành động chánh mạng đã làm, một bước cần điều chỉnh, hồi hướng công đức tới những ai đang chịu bất công lao động.
+
+## Xem thêm
+
+- [Bồ-đề tâm](../khai_niem/bo_de_tam.md): nuôi dưỡng động lực phụng sự để nghề nghiệp gắn liền với hạnh Bồ-tát.
+- [Kinh tế tỉnh thức](kinh_te_tinh_thuc.md): mở rộng góc nhìn chánh mạng ở cấp độ doanh nghiệp và chính sách công.
+- [Pháp thoại: Giới kỹ thuật số](gioi_ky_thuat_so.md): bổ sung nguyên tắc đạo đức khi làm việc trong môi trường số.
 
 > Khi nghề nghiệp trở thành con đường tu tập, của cải không còn là gánh nặng mà trở thành nguồn nuôi dưỡng sự tỉnh thức chung.

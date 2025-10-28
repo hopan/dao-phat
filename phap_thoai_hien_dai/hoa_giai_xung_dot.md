@@ -10,7 +10,7 @@ title: Hòa giải xung đột
 ## Thông điệp mở đầu
 
 "Xung đột không phải để thắng thua, mà để học cách lắng nghe chính mình trong người khác. Hòa giải là con đường mở rộng trái tim Bồ-tát."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -62,5 +62,11 @@ title: Hòa giải xung đột
 1. Sáng: phát nguyện “nguyện nói lời hòa giải, không nuôi hận thù”.
 2. Trong ngày: khi bất đồng, dừng lại ba hơi thở, nêu cảm xúc và nhu cầu thay vì cáo buộc.
 3. Tối: thực tập thiền từ bi dành cho người mình đang mâu thuẫn.
+
+## Xem thêm
+
+- [Từ bi](../khai_niem/tu_bi.md): nền tảng chuyển hóa cảm xúc mạnh trong mọi cuộc đối thoại.
+- [Pháp thoại: Công bằng xã hội](cong_bang_xa_hoi.md): mở rộng tầm nhìn hòa giải tới các hệ thống bất công.
+- [Pháp thoại: Thanh thiếu niên tỉnh thức](thanh_thieu_nien_tinh_thuc.md): trang bị kỹ năng lắng nghe và ái ngữ cho thế hệ trẻ.
 
 > Hòa giải là nghệ thuật biến xung đột thành cơ hội tu tập. Khi mỗi người bước một bước hiểu biết, cả cộng đồng tiến gần hòa bình.

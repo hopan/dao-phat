@@ -10,7 +10,7 @@ title: Thanh thiếu niên tỉnh thức
 ## Thông điệp mở đầu
 
 "Tuổi trẻ là dòng suối mới của nhân loại. Dạy các em tỉnh thức hôm nay là bảo hộ tương lai của trái đất."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -61,5 +61,11 @@ title: Thanh thiếu niên tỉnh thức
 1. Sáng: cả gia đình thở chung ba hơi, nói lời chúc an lành.
 2. Trong ngày: nhắc trẻ dừng lại mỗi khi cảm xúc mạnh, đặt tay lên ngực và đếm hơi thở.
 3. Tối: chia sẻ “ba điều con trân quý” trước khi ngủ.
+
+## Xem thêm
+
+- [Chánh niệm](../khai_niem/chanh_niem.md): nền tảng để giáo dục cảm xúc và xây dựng sự tỉnh thức cho giới trẻ.
+- [Pháp thoại: Giới kỹ thuật số](gioi_ky_thuat_so.md): giúp gia đình đặt ra quy ước thông minh khi dùng thiết bị.
+- [Chăm sóc tâm: Nguyên lý](../cham_soc_than_tam/cham_soc_tam_nguyen_ly.md): gợi ý thiết lập nếp sinh hoạt nuôi dưỡng thân-tâm trong gia đình.
 
 > Nuôi dưỡng thế hệ trẻ bằng chánh niệm là gieo hạt tỉnh thức vào tương lai. Khi các em biết thương mình và thương người, nhân loại được tái sinh.

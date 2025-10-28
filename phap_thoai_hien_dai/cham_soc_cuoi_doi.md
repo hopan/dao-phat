@@ -10,7 +10,7 @@ title: Chăm sóc cuối đời
 ## Thông điệp mở đầu
 
 "Sinh, già, bệnh, chết là bốn cánh cửa ai cũng đi qua. Chăm sóc cuối đời bằng tâm tỉnh thức giúp người sắp đi và người ở lại cùng trở về an lạc."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -60,5 +60,11 @@ title: Chăm sóc cuối đời
 1. Sáng: đọc kệ vô thường, nhắc mình sống sâu sắc từng phút.
 2. Trong ngày: chạm nhẹ bàn tay bệnh nhân với hơi thở chánh niệm, truyền năng lượng an lành.
 3. Tối: hồi hướng công đức tới người đã và đang chuyển hóa, gửi yêu thương tới gia đình họ.
+
+## Xem thêm
+
+- [Từ bi](../khai_niem/tu_bi.md): nuôi dưỡng khả năng cảm thông sâu sắc khi đồng hành cùng người lâm chung.
+- [Chăm sóc thân - tâm](../cham_soc_than_tam/index.md): gợi ý thực hành giúp người chăm sóc giữ sức khỏe thể chất và tinh thần.
+- [Pháp thoại: Chuyển hóa lo âu khí hậu](chuyen_hoa_lo_au_khi_hau.md): học cách ôm ấp những nỗi sợ tập thể bằng năng lượng chánh niệm và hành động thiết thực.
 
 > Khi chăm sóc người sắp đi với tâm từ bi, ta nhận ra sự sống và cái chết chỉ là hai mặt của cùng một phép mầu tỉnh thức.

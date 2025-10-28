@@ -10,7 +10,7 @@ title: Chuyển hóa lo âu khí hậu
 ## Thông điệp mở đầu
 
 "Trái đất đang kêu cứu trong từng nhịp thở của chúng ta. Nhìn sâu vào nỗi sợ khí hậu để biến nó thành hành động thương yêu."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -61,5 +61,11 @@ title: Chuyển hóa lo âu khí hậu
 1. Sáng: chạm đất ba lạy, cảm ơn hành tinh.
 2. Trong ngày: chọn ít nhất một hành động giảm phát thải (đi bộ, ăn chay, tắt thiết bị).
 3. Tối: hồi hướng cho các nhà bảo vệ môi trường và mọi loài đang chịu ảnh hưởng.
+
+## Xem thêm
+
+- [Tương tức](../khai_niem/tuong_tuc.md): hiểu sâu sự liên hệ giữa bản thân và hệ sinh thái để chuyển hóa cảm giác bất lực.
+- [Pháp thoại: Nông nghiệp chánh niệm](nong_nghiep_chanh_niem.md): tìm cảm hứng từ những mô hình chăm sóc đất mẹ bằng hành động cụ thể.
+- [Kinh tế tỉnh thức](kinh_te_tinh_thuc.md): khám phá cách cấu trúc kinh tế có thể hỗ trợ chuyển dịch xanh.
 
 > Khi ôm ấp nỗi sợ với chánh niệm, ta thấy trái đất không chỉ bị đe doạ mà còn đang trao cho ta cơ hội thức tỉnh tập thể.

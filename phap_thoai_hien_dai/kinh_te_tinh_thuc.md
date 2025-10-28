@@ -10,7 +10,7 @@ title: Kinh tế tỉnh thức
 ## Thông điệp mở đầu
 
 "Kinh tế là dòng năng lượng trao đổi giữa chúng sinh. Khi dòng ấy được soi sáng bởi chánh niệm và từ bi, phồn vinh trở thành hạnh phúc chung."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -61,5 +61,11 @@ title: Kinh tế tỉnh thức
 1. Sáng: quán niệm ân sâu của những người tạo ra thực phẩm, quần áo.
 2. Trong ngày: trước khi mua sắm, tự hỏi “Ta có thật sự cần không? Tác động là gì?”
 3. Tối: thống kê chi tiêu, hồi hướng cho những ai chưa đủ điều kiện sống.
+
+## Xem thêm
+
+- [Pháp thoại: Chánh mạng](chanh_mang.md): soi lại nghề nghiệp và chuỗi cung ứng ở cấp cá nhân.
+- [Bồ-đề tâm](../khai_niem/bo_de_tam.md): nhắc nhở động lực phục vụ lợi ích chung khi điều phối dòng tiền.
+- [Pháp thoại: Công bằng xã hội](cong_bang_xa_hoi.md): đảm bảo thịnh vượng kinh tế đi kèm công bằng và tiếng nói của cộng đồng yếu thế.
 
 > Kinh tế tỉnh thức giúp dòng tiền trở thành dòng tuệ giác. Khi trao đổi bằng trái tim rộng mở, của cải chung được nuôi dưỡng.

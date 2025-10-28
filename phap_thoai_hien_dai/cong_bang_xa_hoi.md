@@ -10,7 +10,7 @@ title: Công bằng xã hội
 ## Thông điệp mở đầu
 
 "Nếu thấy người chịu bất công mà ta vẫn thản nhiên, ta đã đánh mất trái tim tỉnh thức. Công bằng xã hội là sắc thái cụ thể của lòng từ bi."  
-— Pháp thoại từ Đức Thế Tôn tái thế
+— Chia sẻ từ tăng thân chánh niệm đương đại
 
 ## Tài liệu tham khảo
 
@@ -61,5 +61,11 @@ title: Công bằng xã hội
 1. Sáng: phát nguyện “nguyện không xây dựng hạnh phúc cá nhân trên sự thiệt thòi của bất kỳ ai”.
 2. Trong ngày: dành thời gian đọc hoặc lắng nghe một câu chuyện từ cộng đồng yếu thế.
 3. Tối: rà soát quyết định trong ngày, xem có ai bị bỏ quên; gửi năng lượng lành tới họ và chuẩn bị hành động sửa chữa.
+
+## Xem thêm
+
+- [Bồ-đề tâm](../khai_niem/bo_de_tam.md): nuôi dưỡng động lực hành Bồ-tát vì lợi ích tất cả.
+- [Tương tức](../khai_niem/tuong_tuc.md): soi sáng mối nối giữa mình và cộng đồng để vượt qua chia rẽ.
+- [Pháp thoại: Hòa giải xung đột](hoa_giai_xung_dot.md): bước đi cụ thể nhằm chuyển hóa mâu thuẫn trong gia đình và xã hội.
 
 > Khi hiểu mọi người tương tức, công bằng xã hội không còn là khẩu hiệu chính trị mà là hơi thở của đạo Bồ-tát.
