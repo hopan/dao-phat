@@ -71,7 +71,6 @@ Tham khảo:
 - [Chứng đạo ca](chung_dao_ca.md)
 - [Công án](cong_an.md)
 - [Cực lạc](cuc_lac.md)
-
 ## D
 
 - [Drikung Kagyu](drikung_kagyu.md)
@@ -104,7 +103,6 @@ Tham khảo:
 - [Giác ngộ](giac_ngo.md)
 - [Giải thâm mật kinh](giai_tham_mat_kinh.md)
 - [Giới (Phật giáo)](gioi_phat_giao.md)
-
 ## H
 
 - [Hành (tôn giáo)](hanh_phat_giao.md)
@@ -116,8 +114,7 @@ Tham khảo:
 - [Hoàng Bá tông](hoang_ba_tong.md)
 - [Hoàng Long phái](hoang_long_phai.md)
 - [Hộ Pháp](ho_phap.md)
-- [Hữu luân](huu_luan.md)
-
+- [Hữu luận](huu_luan.md)
 ## K
 
 - [Khổ (Phật giáo)](kho_phat_giao.md)
@@ -132,7 +129,6 @@ Tham khảo:
 - [Kinh lượng bộ](kinh_luong_bo.md)
 - [Kinh Phật](kinh_phat.md)
 - [Kinh tế học Phật giáo](kinh_te_hoc_phat_giao.md)
-
 ## L
 
 - Lão sư
@@ -175,7 +171,6 @@ Tham khảo:
 - Như Lai
 - Niết-bàn
 - Ninh-mã phái
-
 ## P
 
 - Pháp (tôn giáo)
@@ -223,6 +218,7 @@ Tham khảo:
 - Tam trí
 - [Từ bi](tu_bi.md)
 - Tát-ca phái
+- [Tương tức](tuong_tuc.md)
 - Tăng Trưởng Thiên Vương
 - Tâm (Phật giáo)
 - Tâm sở
@@ -294,8 +290,8 @@ Tham khảo:
 - Tự tính
 - Tứ vô lượng
 
-# V
 
+# V
 - Vấn đáp (Phật giáo)
 - Vân Môn Khuông Chân Thiền sư quảng lục
 - Vân thủy
@@ -304,7 +300,6 @@ Tham khảo:
 - Vô ngã
 - Vô thường
 - Vô thượng du-già
-
 ## X
 
 - Xá-lợi-phất
