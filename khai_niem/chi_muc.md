@@ -54,7 +54,7 @@ Tham khảo:
 - Bồ-đề
 - Bồ-đề đạo đăng luận
 - Bồ-đề đạo thứ đệ
-- Bồ-đề tâm
+- [Bồ-đề tâm](bo_de_tam.md)
 - Bổng hát
 
 ## C
@@ -221,6 +221,7 @@ Tham khảo:
 - Tam thập thất bồ-đề phần
 - Tam thừa
 - Tam trí
+- [Từ bi](tu_bi.md)
 - Tát-ca phái
 - Tăng Trưởng Thiên Vương
 - Tâm (Phật giáo)
