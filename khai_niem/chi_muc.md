@@ -23,8 +23,8 @@ Tham khảo:
 
 ## B
 
-- Ba mươi hai tướng tốt
-- Ba-la-mật-đa
+- [Ba mươi hai tướng tốt](ba_muoi_hai_tuong_tot.md)
+- [Ba-la-mật-đa](ba_la_mat_da.md)
 - Bà-la-môn
 - Bạch Ẩn Thiền sư toạ thiền hoà tán
 - Bạch chỉ (Phật giáo)
@@ -32,14 +32,14 @@ Tham khảo:
 - Bản sư
 - Bản sự kinh
 - Bát bộ chúng
-- Bát chính đạo
+- [Bát chánh đạo](bat_chanh_dao.md)
 - Bát đế
 - Bát nạn
 - Bát thập chủng hảo
-- Bát-nhã
+- [Bát-nhã](bat_nha.md)
 - Bát-nhã-ba-la-mật-đa
 - Bát-nhã-ba-la-mật-đa kinh
-- Bát-niết-bàn
+- [Bát-niết-bàn](bat_niet_ban.md)
 - Bất cộng vô minh
 - Bất hại
 - Bất hành nhi hành
@@ -204,12 +204,12 @@ Tham khảo:
 
 ## T
 
-- Tam bảo
+- [Tam bảo](tam_bao.md)
 - Tam độc
 - Tam giai giáo
 - Tam giải thoát môn
-- Tam giới
-- Tam học
+- [Tam giới](tam_gioi.md)
+- [Tam học](tam_hoc.md)
 - Tam luận
 - Tam luận tông
 - Tam thân
@@ -279,10 +279,10 @@ Tham khảo:
 - Trước ngữ
 - Tử
 - Tứ chính cần
-- Tứ diệu đế
+- [Tứ diệu đế](tu_dieu_de.md)
 - Tự lực
 - Tự nhiên (triết học)
-- Tứ niệm xứ
+- [Tứ niệm xứ](tu_niem_xu.md)
 - Tứ niệm xứ kinh
 - Tứ thánh quả
 - Tứ thần túc
