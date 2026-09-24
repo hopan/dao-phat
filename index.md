@@ -10,6 +10,7 @@ title: Đạo Phật - hopan.vn
 - [Chăm sóc thân - tâm](cham_soc_than_tam/index.md)
 - [Thiền trong hoạt động hằng ngày](thien_hang_ngay/danh_muc_thien.md)
 - [Đạo Phật và khoa học](dao_phat_va_khoa_hoc/index.md)
+- [Hồi Ký Của Một Đốm Lửa](hoi-ky-jack.md)
 
 ## Hướng dẫn sử dụng nhanh
 
